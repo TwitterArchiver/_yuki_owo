@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2090570077490041141",
+    "created_at": "2026-08-21T12:00:37.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090771048916787483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986430182622961666",
+          "start": 0,
+          "username": "LiShun89264bjgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090771048916787483",
+    "in_reply_to_user_id": "1986430182622961666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090585748856848657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiShun89264bjgj 可以可以嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2090570077490041141",
+        "created_at": "2026-08-21T12:00:37.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090771048916787483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986430182622961666",
+              "start": 0,
+              "username": "LiShun89264bjgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090771048916787483",
+        "in_reply_to_user_id": "1986430182622961666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090585748856848657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiShun89264bjgj 可以可以嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986430182622961666",
+        "conversation_id": "2090570077490041141",
+        "created_at": "2026-08-20T23:44:18.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T00:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090585748856848657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090585748856848657",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090570077490041141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 前面忘了中间忘了后面忘了，总之：我去早说你这么好看啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2090771048916787483",
+        "name": "下水道",
+        "pinned_tweet_id": "2090385958864859579",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090430162873806848/KaYEX7ED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 751,
+          "like_count": 3860,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2123
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T13:47:30.000Z",
+        "description": "https://t.co/McvnYgiNed\n02，170-100，直男直男直男（重要的事说三遍）\n中度抑郁伴随焦虑，喜欢割手手（成功戒掉了好吧，ps：我很牛逼）\n喜欢听歌，喜欢打游戏\n努力经营自己的糖比生活，骂我默认暗恋我\n只想交朋友谢谢（男女不限）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lishun89624bjgj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lishun89624bjgj",
+                "start": 0,
+                "url": "https://t.co/McvnYgiNed"
+              }
+            ]
+          }
+        },
+        "id": "1986430182622961666",
+        "is_identity_verified": false,
+        "location": "四川，目前暂住广东",
+        "most_recent_tweet_id": "2090770336161947708",
+        "name": "书中人怀中猫",
+        "pinned_tweet_id": "2088672708238377239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986430182622961666/1785850077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986431628340830210/pw7nx0oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 72,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1390
+        },
+        "url": "",
+        "username": "LiShun89264bjgj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

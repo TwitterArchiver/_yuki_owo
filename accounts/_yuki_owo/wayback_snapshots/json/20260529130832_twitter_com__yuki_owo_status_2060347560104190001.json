@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060347550578917378"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2060347560104190001",
+    "created_at": "2026-05-29T13:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060347560104190001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vLRGDlGeeh",
+          "end": 28,
+          "expanded_url": "https://x.com/_yuki_owo/status/2060347560104190001/photo/1",
+          "media_key": "3_2060347550578917378",
+          "start": 5,
+          "url": "https://t.co/vLRGDlGeeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060347560104190001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我完蛋了 https://t.co/vLRGDlGeeh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2060347550578917378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfTLloaQAIPlSK.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060347550578917378"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2060347560104190001",
+        "created_at": "2026-05-29T13:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060347560104190001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLRGDlGeeh",
+              "end": 28,
+              "expanded_url": "https://x.com/_yuki_owo/status/2060347560104190001/photo/1",
+              "media_key": "3_2060347550578917378",
+              "start": 5,
+              "url": "https://t.co/vLRGDlGeeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060347560104190001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我完蛋了 https://t.co/vLRGDlGeeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08/女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/我是穷逼弱智糖人精神病/骂我默认辱追/喜欢我的我会宠你们/爱你们mua",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Pripyat",
+        "name": "下水道",
+        "pinned_tweet_id": "2041482120028385312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052872311519498240/_QFl3sOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 684,
+          "like_count": 3461,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

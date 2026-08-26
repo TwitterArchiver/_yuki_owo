@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2066108092446838851",
+    "created_at": "2026-06-14T10:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066108463999271198"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066108463999271198",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066108092446838851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就算毁掉一切也没有关系。我再也不会一个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2066108092446838851",
+        "created_at": "2026-06-14T10:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066108463999271198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066108463999271198",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066108092446838851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就算毁掉一切也没有关系。我再也不会一个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2066108092446838851",
+        "created_at": "2026-06-14T10:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066108092446838851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066108092446838851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我卑劣的过去无法改变 可我们还有明天 无数个明天 日升日落沧海桑田 哪怕我死去 明天还是一望无际 而我们创造的未来会不朽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "下水道里的呕吐物一般肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 688,
+          "like_count": 3542,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1743
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079452878864080896"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2079452888024440968",
+    "created_at": "2026-07-21T06:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079452888024440968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MT2n1HIrru",
+          "end": 74,
+          "expanded_url": "https://x.com/_yuki_owo/status/2079452888024440968/photo/1",
+          "media_key": "3_2079452878864080896",
+          "start": 51,
+          "url": "https://t.co/MT2n1HIrru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079452888024440968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才睡醒。白天唱k晚上喝完酒和朋友夜不归宿去废弃商场探险散步畅聊谩骂这个世界。我终于过上现充的人生了。 https://t.co/MT2n1HIrru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079452878864080896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuzYDvbYAA7-x0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079452878864080896"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2079452888024440968",
+        "created_at": "2026-07-21T06:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079452888024440968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MT2n1HIrru",
+              "end": 74,
+              "expanded_url": "https://x.com/_yuki_owo/status/2079452888024440968/photo/1",
+              "media_key": "3_2079452878864080896",
+              "start": 51,
+              "url": "https://t.co/MT2n1HIrru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079452888024440968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才睡醒。白天唱k晚上喝完酒和朋友夜不归宿去废弃商场探险散步畅聊谩骂这个世界。我终于过上现充的人生了。 https://t.co/MT2n1HIrru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "🚪52 我叫七七 互fo漏fo私我回",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道。",
+        "pinned_tweet_id": "2076879094231486468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078734562700705793/ZDwyx7Km_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 695,
+          "like_count": 3634,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2024
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

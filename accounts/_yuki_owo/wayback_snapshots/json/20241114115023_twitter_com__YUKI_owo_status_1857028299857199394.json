@@ -1,0 +1,588 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1021411375992590339",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Ryohei Kimura (木村良平)",
+          "id": "1038154040943636480",
+          "name": "Ryohei Kimura"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Ryohei Kimura (木村良平)",
+          "id": "1038154040943636480",
+          "name": "Ryohei Kimura"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ryohei Kimura (木村良平)",
+          "id": "1038154040943636480",
+          "name": "Ryohei Kimura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714559518150656",
+          "name": "Japanese actors"
+        }
+      }
+    ],
+    "conversation_id": "1857028299857199394",
+    "created_at": "2024-11-14T11:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T12:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857028299857199394"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 74,
+          "normalized_text": "比企",
+          "probability": 0.7357,
+          "start": 73,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "ハイガクラ"
+        },
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "木村良平"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "橘龍丸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1684013507271069696",
+          "start": 3,
+          "username": "haigakura_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857028299857199394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1389
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855966461493395494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haigakura_anime: ／\nTVアニメ「#ハイガクラ」\nフォロー＆リポストキャンペーン\n＼\n\n六話サイン台本を1⃣名様に🎁\n\n比企：#木村良平 さん\n鎧糸：#橘龍丸 さん\n\n1⃣このアカウントをフォロー\n2⃣このポストをリポスト\n\n📅締切:11/17(日)23…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1021411375992590339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ryohei Kimura (木村良平)",
+              "id": "1038154040943636480",
+              "name": "Ryohei Kimura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Ryohei Kimura (木村良平)",
+              "id": "1038154040943636480",
+              "name": "Ryohei Kimura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ryohei Kimura (木村良平)",
+              "id": "1038154040943636480",
+              "name": "Ryohei Kimura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "1857028299857199394",
+        "created_at": "2024-11-14T11:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T12:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857028299857199394"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 74,
+              "normalized_text": "比企",
+              "probability": 0.7357,
+              "start": 73,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "ハイガクラ"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "木村良平"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "橘龍丸"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1684013507271069696",
+              "start": 3,
+              "username": "haigakura_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857028299857199394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1389
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855966461493395494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haigakura_anime: ／\nTVアニメ「#ハイガクラ」\nフォロー＆リポストキャンペーン\n＼\n\n六話サイン台本を1⃣名様に🎁\n\n比企：#木村良平 さん\n鎧糸：#橘龍丸 さん\n\n1⃣このアカウントをフォロー\n2⃣このポストをリポスト\n\n📅締切:11/17(日)23…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855966459526291456"
+          ]
+        },
+        "author_id": "1684013507271069696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ryohei Kimura (木村良平)",
+              "id": "1038154040943636480",
+              "name": "Ryohei Kimura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Ryohei Kimura (木村良平)",
+              "id": "1038154040943636480",
+              "name": "Ryohei Kimura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ryohei Kimura (木村良平)",
+              "id": "1038154040943636480",
+              "name": "Ryohei Kimura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "1855966461493395494",
+        "created_at": "2024-11-11T13:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T14:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855966461493395494"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "比企",
+              "probability": 0.6841,
+              "start": 52,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "ハイガクラ"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "木村良平"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "橘龍丸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPNooqciHB",
+              "end": 145,
+              "expanded_url": "https://x.com/haigakura_anime/status/1855966461493395494/photo/1",
+              "media_key": "3_1855966459526291456",
+              "start": 122,
+              "url": "https://t.co/UPNooqciHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855966461493395494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 39024,
+          "like_count": 731,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 1389
+        },
+        "reply_settings": "everyone",
+        "text": "／\nTVアニメ「#ハイガクラ」\nフォロー＆リポストキャンペーン\n＼\n\n六話サイン台本を1⃣名様に🎁\n\n比企：#木村良平 さん\n鎧糸：#橘龍丸 さん\n\n1⃣このアカウントをフォロー\n2⃣このポストをリポスト\n\n📅締切:11/17(日)23:59 https://t.co/UPNooqciHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-07-23T15:07:03.000Z",
+        "description": "這裡是桔子✨🇹🇼\n中文為主✨日、英文學習中\n有時會發一些畫的圖上來✨",
+        "id": "1021411375992590339",
+        "name": "桔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802883361675128832/IXQLGMjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 236,
+          "like_count": 3899,
+          "listed_count": 1,
+          "tweet_count": 58
+        },
+        "username": "_YUKI_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T01:35:30.000Z",
+        "description": "#高山しのぶ の人気コミックがついにアニメ化！大切なものを取り戻すため、家族を囚われた歌士・一葉と過去を失った従神・滇紅の戦いが始まる―― 2024年＜神無月＞10月7日(月)より放送開始！ #ハイガクラ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "高山しのぶ"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "ハイガクラ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "haigakura.jp",
+                "end": 23,
+                "expanded_url": "https://haigakura.jp/",
+                "start": 0,
+                "url": "https://t.co/7dBnTPrIgq"
+              }
+            ]
+          }
+        },
+        "id": "1684013507271069696",
+        "location": "仙界",
+        "name": "TVアニメ「ハイガクラ」【公式】",
+        "pinned_tweet_id": "1855966461493395494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852185772201512961/pcDbKxUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43975,
+          "following_count": 39,
+          "like_count": 0,
+          "listed_count": 113,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/7dBnTPrIgq",
+        "username": "haigakura_anime",
+        "verified": true
+      }
+    ]
+  }
+}

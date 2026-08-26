@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2066792796007305658",
+    "created_at": "2026-06-17T17:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067298870334570809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067298870334570809",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066792796007305658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie 观后感：telegram进去怎么收钱怎么支付啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066792780425551872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK65FV2bYAA-EH3.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066792780425510912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK65FV2awAARC2N.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2066792796007305658",
+        "created_at": "2026-06-17T17:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067298870334570809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067298870334570809",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066792796007305658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie 观后感：telegram进去怎么收钱怎么支付啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066792780425551872",
+            "3_2066792780425510912"
+          ]
+        },
+        "author_id": "2056655773502160896",
+        "conversation_id": "2066792796007305658",
+        "created_at": "2026-06-16T07:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066792796007305658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aWzK5Qljl",
+              "end": 99,
+              "expanded_url": "https://x.com/simaojie/status/2066792796007305658/photo/1",
+              "media_key": "3_2066792780425551872",
+              "start": 76,
+              "url": "https://t.co/8aWzK5Qljl"
+            },
+            {
+              "display_url": "pic.x.com/8aWzK5Qljl",
+              "end": 99,
+              "expanded_url": "https://x.com/simaojie/status/2066792796007305658/photo/1",
+              "media_key": "3_2066792780425510912",
+              "start": 76,
+              "url": "https://t.co/8aWzK5Qljl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066792796007305658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9449,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给你们看个乐乐😂这种不长眼的傻逼公狗就是被下体控制全身的屌丝，这种人就不应该存活于这个世界上，活着浪费时间空气，你野爹我一刀捅死你这个精虫上脑大傻逼💫 https://t.co/8aWzK5Qljl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 694,
+          "like_count": 3541,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1787
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "05 地雷/量产 你们可以叫我kaki/小卉\n欢迎互fo互转！！\n纯交同类朋友来的不收门槛\n男的别关注别骚扰别评论不收门槛\n男的别关注私信不然我会先问候你全家再拉黑",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别关注别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 121,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 86
+        },
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

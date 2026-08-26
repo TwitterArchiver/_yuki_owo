@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2061853167114244381",
+    "created_at": "2026-06-02T16:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061853408341192976"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061853408341192976",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061853167114244381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想跳楼但是又听说是痛死的我真的害怕本来就恐高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2061853167114244381",
+        "created_at": "2026-06-02T16:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061853408341192976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061853408341192976",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061853167114244381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想跳楼但是又听说是痛死的我真的害怕本来就恐高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2061853167114244381",
+        "created_at": "2026-06-02T16:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061853167114244381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061853167114244381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真羡慕有钱人能去外国安乐死呀。我活的已经够痛苦了想自杀还得经历更多痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/我是穷逼弱智糖人精神病/骂我默认辱追/喜欢我的我会宠你们/爱你们mua",
+        "id": "1957509667787325440",
+        "location": "天国",
+        "name": "下水道",
+        "pinned_tweet_id": "2060677205471150304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 692,
+          "like_count": 3539,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1685
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

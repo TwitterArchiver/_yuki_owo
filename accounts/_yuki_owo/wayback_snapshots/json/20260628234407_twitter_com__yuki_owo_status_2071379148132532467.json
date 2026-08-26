@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2071339943209697791",
+    "created_at": "2026-06-28T23:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T00:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071379148132532467"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071379148132532467",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071339943209697791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在badtrip中是被好心人打电话叫醒的十分感谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071339935492452352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7gsmgbsAAo08d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2071339943209697791",
+        "created_at": "2026-06-28T23:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T00:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071379148132532467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071379148132532467",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071339943209697791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在badtrip中是被好心人打电话叫醒的十分感谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071339935492452352"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071339943209697791",
+        "created_at": "2026-06-28T21:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T22:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071339943209697791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTMqcyNHmf",
+              "end": 36,
+              "expanded_url": "https://x.com/_yuki_owo/status/2071339943209697791/photo/1",
+              "media_key": "3_2071339935492452352",
+              "start": 13,
+              "url": "https://t.co/CTMqcyNHmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071339943209697791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "选择了dpt 剩的不多了 https://t.co/CTMqcyNHmf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "pinned_tweet_id": "2070522030114660377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 700,
+          "like_count": 3571,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1919
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

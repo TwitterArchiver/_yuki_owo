@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2069838110381531156",
+    "created_at": "2026-06-24T17:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069838110381531156"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069838110381531156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好痛苦 我恨你 我只能恨你 恨死你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2069838110381531156",
+        "created_at": "2026-06-24T17:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069838110381531156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069838110381531156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛苦 我恨你 我只能恨你 恨死你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 697,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1852
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2068602567689724380",
+    "created_at": "2026-06-21T07:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068602606742892814"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068602606742892814",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068602567689724380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "豆包帮我生成忧郁文案"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2068602557476544512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUnEOvaoAAMP75.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2068602567689724380",
+        "created_at": "2026-06-21T07:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068602606742892814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068602606742892814",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068602567689724380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "豆包帮我生成忧郁文案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068602557476544512"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2068602567689724380",
+        "created_at": "2026-06-21T07:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068602567689724380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHy1qg5tSI",
+              "end": 27,
+              "expanded_url": "https://x.com/_yuki_owo/status/2068602567689724380/photo/1",
+              "media_key": "3_2068602557476544512",
+              "start": 4,
+              "url": "https://t.co/yHy1qg5tSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068602567689724380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鱿鱼。 https://t.co/yHy1qg5tSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 697,
+          "like_count": 3542,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1817
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2072368418217668861",
+    "created_at": "2026-07-01T17:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072368418217668861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072368418217668861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072192753073889669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 你去谈恋爱呀，去当别人的小狗，当马戏团的小丑，当朋友圈里的诗人，当聊天见面的作家，当别人的提款机，当朋友眼里的精神病。你去谈恋爱呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2072368418217668861",
+        "created_at": "2026-07-01T17:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072368418217668861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072368418217668861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072192753073889669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 你去谈恋爱呀，去当别人的小狗，当马戏团的小丑，当朋友圈里的诗人，当聊天见面的作家，当别人的提款机，当朋友眼里的精神病。你去谈恋爱呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2072192753073889669",
+        "created_at": "2026-07-01T05:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072192753073889669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072192753073889669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7272,
+          "like_count": 188,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "你去谈恋爱呀，去当别人的小狗，当马戏团的小丑，当朋友圈里的诗人，当聊天见面的作家，当别人的提款机，当朋友眼里的精神病。你去谈恋爱呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "🚪52",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "pinned_tweet_id": "2071565423271940223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071562637037756416/a4prxnjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 698,
+          "like_count": 3577,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1931
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10255,
+          "following_count": 6,
+          "like_count": 1201,
+          "listed_count": 29,
+          "media_count": 133,
+          "tweet_count": 2830
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

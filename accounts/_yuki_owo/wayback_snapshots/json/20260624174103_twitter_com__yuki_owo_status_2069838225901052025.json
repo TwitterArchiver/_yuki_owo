@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069838218703335424"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069838225901052025",
+    "created_at": "2026-06-24T17:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069838225901052025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ihL3yidmYR",
+          "end": 25,
+          "expanded_url": "https://x.com/_yuki_owo/status/2069838225901052025/photo/1",
+          "media_key": "3_2069838218703335424",
+          "start": 2,
+          "url": "https://t.co/ihL3yidmYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069838225901052025",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/ihL3yidmYR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 403,
+        "media_key": "3_2069838218703335424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmK5LhW8AAwue8.jpg",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069838218703335424"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069838225901052025",
+        "created_at": "2026-06-24T17:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069838225901052025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihL3yidmYR",
+              "end": 25,
+              "expanded_url": "https://x.com/_yuki_owo/status/2069838225901052025/photo/1",
+              "media_key": "3_2069838218703335424",
+              "start": 2,
+              "url": "https://t.co/ihL3yidmYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069838225901052025",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/ihL3yidmYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 697,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1853
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

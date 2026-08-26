@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2060356182691463190",
+    "created_at": "2026-05-29T13:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060356182691463190"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060356182691463190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不会学校的社交 我总是被欺负 回家了我也不会工作 打游戏也不如别人 怎么努力都不行 发推什么的也不会写文案 吃药也全都bad trip 朋友亲人恋人都离开了我 拼尽全力我也过不上正常人的生活 大概有的人从出生就注定痛苦孤寂 多努力都不行 我打不败命运 战胜不了我天生的愚钝与不幸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2060356182691463190",
+        "created_at": "2026-05-29T13:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060356182691463190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060356182691463190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会学校的社交 我总是被欺负 回家了我也不会工作 打游戏也不如别人 怎么努力都不行 发推什么的也不会写文案 吃药也全都bad trip 朋友亲人恋人都离开了我 拼尽全力我也过不上正常人的生活 大概有的人从出生就注定痛苦孤寂 多努力都不行 我打不败命运 战胜不了我天生的愚钝与不幸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08/女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/我是穷逼弱智糖人精神病/骂我默认辱追/喜欢我的我会宠你们/爱你们mua",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Pripyat",
+        "name": "下水道",
+        "pinned_tweet_id": "2041482120028385312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052872311519498240/_QFl3sOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 684,
+          "like_count": 3462,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

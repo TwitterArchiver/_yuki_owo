@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2067290319885074432",
+    "created_at": "2026-06-21T07:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068601873616240856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921019818209406978",
+          "start": 0,
+          "username": "Victor_OxO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068601873616240856",
+    "in_reply_to_user_id": "1921019818209406978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067559924306247884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor_OxO_ 我吃完加巴会狂躁然后抽动还缓解不了难受🆘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2067290319885074432",
+        "created_at": "2026-06-21T07:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068601873616240856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921019818209406978",
+              "start": 0,
+              "username": "Victor_OxO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068601873616240856",
+        "in_reply_to_user_id": "1921019818209406978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067559924306247884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_OxO_ 我吃完加巴会狂躁然后抽动还缓解不了难受🆘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921019818209406978",
+        "conversation_id": "2067290319885074432",
+        "created_at": "2026-06-18T10:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067559924306247884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067559924306247884",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067290319885074432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 吃加巴喷丁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 696,
+          "like_count": 3540,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1814
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T01:50:04.000Z",
+        "description": "ポストマン推し　同担拒否🥺",
+        "id": "1921019818209406978",
+        "location": "荘園",
+        "name": "yukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018891889097973760/Sk8Rao2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 52,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Victor_OxO_",
+        "verified": false
+      }
+    ]
+  }
+}

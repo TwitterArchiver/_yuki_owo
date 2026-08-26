@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2076486777767104751",
+    "created_at": "2026-07-14T04:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076883732976599303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1998751032650969088",
+          "start": 0,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076883732976599303",
+    "in_reply_to_user_id": "1998751032650969088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076486777767104751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fox_Sakura233 （拿走）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2076486754169958400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEps4MasAAcEXy.jpg",
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2076486758016126976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEptGhakAAdB6d.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076486757902856192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEptGGaMAAwYBr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2076486777767104751",
+        "created_at": "2026-07-14T04:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076883732976599303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1998751032650969088",
+              "start": 0,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076883732976599303",
+        "in_reply_to_user_id": "1998751032650969088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076486777767104751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fox_Sakura233 （拿走）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076486754169958400",
+            "3_2076486758016126976",
+            "3_2076486757902856192"
+          ]
+        },
+        "author_id": "1998751032650969088",
+        "conversation_id": "2076486777767104751",
+        "created_at": "2026-07-13T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076486777767104751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NATQHra4ea",
+              "end": 25,
+              "expanded_url": "https://x.com/Fox_Sakura233/status/2076486777767104751/photo/1",
+              "media_key": "3_2076486754169958400",
+              "start": 2,
+              "url": "https://t.co/NATQHra4ea"
+            },
+            {
+              "display_url": "pic.x.com/NATQHra4ea",
+              "end": 25,
+              "expanded_url": "https://x.com/Fox_Sakura233/status/2076486777767104751/photo/1",
+              "media_key": "3_2076486758016126976",
+              "start": 2,
+              "url": "https://t.co/NATQHra4ea"
+            },
+            {
+              "display_url": "pic.x.com/NATQHra4ea",
+              "end": 25,
+              "expanded_url": "https://x.com/Fox_Sakura233/status/2076486777767104751/photo/1",
+              "media_key": "3_2076486757902856192",
+              "start": 2,
+              "url": "https://t.co/NATQHra4ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076486777767104751",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5564,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😘 https://t.co/NATQHra4ea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "🚪52 我叫七七",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "弃泣七妻",
+        "pinned_tweet_id": "2076879094231486468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076877607145242624/kzelCep__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 699,
+          "like_count": 3611,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1980
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "基于科学考察与研究，因为身处于这样的圈子，所以更加珍惜生命，热爱与研究\n精神活性物质百科：https://t.co/XzFTNu4ouS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 68,
+                "expanded_url": "https://jile.bid/",
+                "start": 45,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 681,
+          "like_count": 1029,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

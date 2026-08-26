@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2065411877015101539",
+    "created_at": "2026-06-14T10:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066102071242392052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1127573546803142656",
+          "start": 0,
+          "username": "KKKIIIKK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066102071242392052",
+    "in_reply_to_user_id": "1127573546803142656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065757017537679463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKKIIIKK2 谢谢尊重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2065411877015101539",
+        "created_at": "2026-06-14T10:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066102071242392052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1127573546803142656",
+              "start": 0,
+              "username": "KKKIIIKK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066102071242392052",
+        "in_reply_to_user_id": "1127573546803142656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065757017537679463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKKIIIKK2 谢谢尊重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127573546803142656",
+        "conversation_id": "2065411877015101539",
+        "created_at": "2026-06-13T11:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065757017537679463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065757017537679463",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065411877015101539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 不理解但是尊重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "下水道里的呕吐物一般肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 686,
+          "like_count": 3541,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1738
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-12T13:57:37.000Z",
+        "description": "比起肉體的疼痛，我更著迷於你眼神中的沉淪",
+        "id": "1127573546803142656",
+        "name": "引渡人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1127573722435428352/pp2LYyO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 88,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "username": "KKKIIIKK2",
+        "verified": false
+      }
+    ]
+  }
+}

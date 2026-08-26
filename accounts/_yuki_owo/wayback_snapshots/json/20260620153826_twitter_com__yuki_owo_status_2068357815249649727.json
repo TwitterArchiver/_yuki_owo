@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2066923610787500497",
+    "created_at": "2026-06-20T15:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068357815249649727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2066765464643018752",
+          "start": 0,
+          "username": "iqqmss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068357815249649727",
+    "in_reply_to_user_id": "2066765464643018752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067238658676015121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iqqmss 很不方便！一般都是筷子卷起来一起吃掉😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2066923610787500497",
+        "created_at": "2026-06-20T15:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068357815249649727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2066765464643018752",
+              "start": 0,
+              "username": "iqqmss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068357815249649727",
+        "in_reply_to_user_id": "2066765464643018752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067238658676015121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iqqmss 很不方便！一般都是筷子卷起来一起吃掉😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066765464643018752",
+        "conversation_id": "2066923610787500497",
+        "created_at": "2026-06-17T13:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067238658676015121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067238658676015121",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066923610787500497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 主播，主播，我有个问题。你怎么吃泡面啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 696,
+          "like_count": 3540,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1798
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T06:13:25.000Z",
+        "description": "",
+        "id": "2066765464643018752",
+        "name": "无际",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "iqqmss",
+        "verified": false
+      }
+    ]
+  }
+}

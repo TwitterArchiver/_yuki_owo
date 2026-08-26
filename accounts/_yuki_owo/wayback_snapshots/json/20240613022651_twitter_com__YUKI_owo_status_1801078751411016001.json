@@ -1,0 +1,248 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1021411375992590339",
+    "conversation_id": "1801078751411016001",
+    "created_at": "2024-06-13T02:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T03:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801078751411016001"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "鳴潮",
+          "probability": 0.6515,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1546393156874166272",
+          "start": 3,
+          "username": "WW_JP_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801078751411016001",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30718
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800483210671063069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WW_JP_Official: 『鳴潮』全世界ダウンロード数が3000万を達成しました！プレイして頂いている漂泊者の皆様、本当にありがとうございます！\n\n皆様のおかげで、この不思議な瞬間を見届けることができました。感謝の気持ちを込めて、【唱喚の渦模様】*10を抽選で10…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1021411375992590339",
+        "conversation_id": "1801078751411016001",
+        "created_at": "2024-06-13T02:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T03:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801078751411016001"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "鳴潮",
+              "probability": 0.6515,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1546393156874166272",
+              "start": 3,
+              "username": "WW_JP_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801078751411016001",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30718
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800483210671063069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WW_JP_Official: 『鳴潮』全世界ダウンロード数が3000万を達成しました！プレイして頂いている漂泊者の皆様、本当にありがとうございます！\n\n皆様のおかげで、この不思議な瞬間を見届けることができました。感謝の気持ちを込めて、【唱喚の渦模様】*10を抽選で10…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800483196959928320"
+          ]
+        },
+        "author_id": "1546393156874166272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1800483210671063069",
+        "created_at": "2024-06-11T11:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T12:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800483210671063069"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "鳴潮",
+              "probability": 0.7017,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eSIgBg9Ahj",
+              "end": 168,
+              "expanded_url": "https://twitter.com/WW_JP_Official/status/1800483210671063069/photo/1",
+              "media_key": "3_1800483196959928320",
+              "start": 145,
+              "url": "https://t.co/eSIgBg9Ahj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800483210671063069",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 1720652,
+          "like_count": 23514,
+          "quote_count": 558,
+          "reply_count": 589,
+          "retweet_count": 30718
+        },
+        "reply_settings": "everyone",
+        "text": "『鳴潮』全世界ダウンロード数が3000万を達成しました！プレイして頂いている漂泊者の皆様、本当にありがとうございます！\n\n皆様のおかげで、この不思議な瞬間を見届けることができました。感謝の気持ちを込めて、【唱喚の渦模様】*10を抽選で10名様にプレゼント🎁\n\nフォロー＆リポストで参加！… https://t.co/eSIgBg9Ahj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-07-23T15:07:03.000Z",
+        "description": "這裡是桔子✨\n中文為主✨日、英文學習中\n有時會發一些畫的圖上來✨",
+        "id": "1021411375992590339",
+        "name": "桔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388503593699876865/Zw2h6PAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 218,
+          "like_count": 3600,
+          "listed_count": 1,
+          "tweet_count": 53
+        },
+        "username": "_YUKI_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T07:17:24.000Z",
+        "description": "新作オープンワールドARPG『#鳴潮』（メイチョウ）が\nマルチプラットフォームにて全世界同時リリースされました！\n\n今すぐダウンロード▼\nhttps://t.co/AZmF588jWK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "鳴潮"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wutheringwaves.onelink.me/jkoc/jp",
+                "end": 92,
+                "expanded_url": "https://wutheringwaves.onelink.me/jkoc/jp",
+                "start": 69,
+                "url": "https://t.co/AZmF588jWK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCGc93…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCGc93NguHRwzv1Rw9MyIcxQ",
+                "start": 0,
+                "url": "https://t.co/QAIpqV4Ey5"
+              }
+            ]
+          }
+        },
+        "id": "1546393156874166272",
+        "name": "鳴潮 (Wuthering Waves) 公式",
+        "pinned_tweet_id": "1798536212829135107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787671789151346688/vmNDPAD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363348,
+          "following_count": 8,
+          "like_count": 468,
+          "listed_count": 913,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/QAIpqV4Ey5",
+        "username": "WW_JP_Official",
+        "verified": true
+      }
+    ]
+  }
+}

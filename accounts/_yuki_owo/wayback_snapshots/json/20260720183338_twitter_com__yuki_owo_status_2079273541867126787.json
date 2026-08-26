@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2079273541867126787",
+    "created_at": "2026-07-20T18:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079273541867126787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "全网最牛5年老牌社工库 数据数百亿 独家姓名选人(可手动按选择地区年龄) 全网独家 非常方便 新人也好上手 查人是一流的,还带循环查询(避免多次查询) 独家2亿车主数据,手机身份证数十亿 新人免费5次.邀请不限制",
+          "display_url": "t.me/qingbaobu?star…",
+          "end": 26,
+          "expanded_url": "https://t.me/qingbaobu?start=ODM2MDU0MjM5OA==",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2079273547529338880/udr9_pVG?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079273547529338880/udr9_pVG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 3,
+          "status": 200,
+          "title": "情报局社工库之玄武-情报部",
+          "unwound_url": "https://t.me/qingbaobu?start=ODM2MDU0MjM5OA==",
+          "url": "https://t.co/NPsKwqqPNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079273541867126787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开户：https://t.co/NPsKwqqPNK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2079273541867126787",
+        "created_at": "2026-07-20T18:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079273541867126787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "全网最牛5年老牌社工库 数据数百亿 独家姓名选人(可手动按选择地区年龄) 全网独家 非常方便 新人也好上手 查人是一流的,还带循环查询(避免多次查询) 独家2亿车主数据,手机身份证数十亿 新人免费5次.邀请不限制",
+              "display_url": "t.me/qingbaobu?star…",
+              "end": 26,
+              "expanded_url": "https://t.me/qingbaobu?start=ODM2MDU0MjM5OA==",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2079273547529338880/udr9_pVG?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079273547529338880/udr9_pVG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "情报局社工库之玄武-情报部",
+              "unwound_url": "https://t.me/qingbaobu?start=ODM2MDU0MjM5OA==",
+              "url": "https://t.co/NPsKwqqPNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079273541867126787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开户：https://t.co/NPsKwqqPNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "🚪52 我叫七七 互fo漏fo私我回",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道。",
+        "pinned_tweet_id": "2076879094231486468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078734562700705793/ZDwyx7Km_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 696,
+          "like_count": 3628,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2020
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

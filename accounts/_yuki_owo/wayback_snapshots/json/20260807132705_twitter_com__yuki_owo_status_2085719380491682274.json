@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2084945399987704223",
+    "created_at": "2026-08-07T13:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085719380491682274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840708439544352768",
+          "start": 0,
+          "username": "seiunn04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085719380491682274",
+    "in_reply_to_user_id": "1840708439544352768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084998854945247382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiunn04 好呀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084998854945247382].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084998854945247382",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084998854945247382"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2084945399987704223",
+        "created_at": "2026-08-07T13:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085719380491682274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840708439544352768",
+              "start": 0,
+              "username": "seiunn04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085719380491682274",
+        "in_reply_to_user_id": "1840708439544352768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084998854945247382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiunn04 好呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n两次从第五高原幸存导致脑子烂掉了的神人一个",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 690,
+          "like_count": 3655,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2038
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "雨上がりの一番星",
+        "id": "1840708439544352768",
+        "location": "Davis,CA",
+        "name": "测地线上的魔法使",
+        "pinned_tweet_id": "2083168537657708931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028540981914853376/ru-GqwEY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 1340,
+          "like_count": 16497,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 3532
+        },
+        "url": "",
+        "username": "seiunn04",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086817361202688000"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2086817370824475105",
+    "created_at": "2026-08-10T14:10:07.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086817370824475105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bfof6a55Zn",
+          "end": 23,
+          "expanded_url": "https://x.com/_yuki_owo/status/2086817370824475105/photo/1",
+          "media_key": "3_2086817361202688000",
+          "start": 0,
+          "url": "https://t.co/bfof6a55Zn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086817370824475105",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086817361202688000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/bfof6a55Zn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2086817361202688000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXdVWWasAApANf.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086817361202688000"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2086817370824475105",
+        "created_at": "2026-08-10T14:10:07.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086817370824475105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfof6a55Zn",
+              "end": 23,
+              "expanded_url": "https://x.com/_yuki_owo/status/2086817370824475105/photo/1",
+              "media_key": "3_2086817361202688000",
+              "start": 0,
+              "url": "https://t.co/bfof6a55Zn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086817370824475105",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086817361202688000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bfof6a55Zn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n两次从第五高原幸存导致脑子烂掉了的神人一个",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "暂停收门槛费",
+        "most_recent_tweet_id": "2086817370824475105",
+        "name": "下水道",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 696,
+          "like_count": 3653,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2051
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

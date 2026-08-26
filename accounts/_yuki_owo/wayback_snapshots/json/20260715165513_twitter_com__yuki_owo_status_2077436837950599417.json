@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2076875979893686351",
+    "created_at": "2026-07-15T16:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077436837950599417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047709853825822721",
+          "start": 0,
+          "username": "339319jk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077436837950599417",
+    "in_reply_to_user_id": "2047709853825822721",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077096460177543313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@339319jk mua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2076875979893686351",
+        "created_at": "2026-07-15T16:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077436837950599417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047709853825822721",
+              "start": 0,
+              "username": "339319jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077436837950599417",
+        "in_reply_to_user_id": "2047709853825822721",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077096460177543313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@339319jk mua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047709853825822721",
+        "conversation_id": "2076875979893686351",
+        "created_at": "2026-07-14T18:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077096460177543313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077096460177543313",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076875979893686351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "🚪52 我叫七七",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "弃泣七妻",
+        "pinned_tweet_id": "2076879094231486468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076877607145242624/kzelCep__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 699,
+          "like_count": 3625,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1985
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T16:13:13.000Z",
+        "description": "",
+        "id": "2047709853825822721",
+        "name": "丹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047710947595456512/UBWReOmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 118,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "339319jk",
+        "verified": false
+      }
+    ]
+  }
+}

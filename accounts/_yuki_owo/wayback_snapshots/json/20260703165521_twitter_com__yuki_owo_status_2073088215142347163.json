@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2073088215142347163",
+    "created_at": "2026-07-03T16:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073088215142347163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718162825779023872",
+          "start": 3,
+          "username": "leak1846551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073088215142347163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073086697949298906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leak1846551: 爱是什么，为什么每次感受到爱的时候我都想死呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2073088215142347163",
+        "created_at": "2026-07-03T16:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073088215142347163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718162825779023872",
+              "start": 3,
+              "username": "leak1846551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073088215142347163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073086697949298906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leak1846551: 爱是什么，为什么每次感受到爱的时候我都想死呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718162825779023872",
+        "conversation_id": "2073086697949298906",
+        "created_at": "2026-07-03T16:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073086697949298906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073086697949298906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爱是什么，为什么每次感受到爱的时候我都想死呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "🚪52",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "pinned_tweet_id": "2071565423271940223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071562637037756416/a4prxnjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 702,
+          "like_count": 3585,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1945
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T07:09:06.000Z",
+        "description": "",
+        "id": "1718162825779023872",
+        "name": "leak",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718164793230598144/dWnzT9hD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "leak1846551",
+        "verified": false
+      }
+    ]
+  }
+}

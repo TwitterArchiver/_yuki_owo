@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052872792622972928"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2052872798843072977",
+    "created_at": "2026-05-08T22:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052872798843072977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xmS3oexY7x",
+          "end": 51,
+          "expanded_url": "https://x.com/_yuki_owo/status/2052872798843072977/photo/1",
+          "media_key": "3_2052872792622972928",
+          "start": 28,
+          "url": "https://t.co/xmS3oexY7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052872798843072977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用最后的钱买了张去永修的票 我死也不会回家了 祝我好运 https://t.co/xmS3oexY7x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2052872792622972928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1E7aVbQAAJzje.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052872792622972928"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2052872798843072977",
+        "created_at": "2026-05-08T22:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052872798843072977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmS3oexY7x",
+              "end": 51,
+              "expanded_url": "https://x.com/_yuki_owo/status/2052872798843072977/photo/1",
+              "media_key": "3_2052872792622972928",
+              "start": 28,
+              "url": "https://t.co/xmS3oexY7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052872798843072977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用最后的钱买了张去永修的票 我死也不会回家了 祝我好运 https://t.co/xmS3oexY7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Satte, Saitama, Japan",
+              "geo": {
+                "coordinates": [
+                  139.72615,
+                  36.07254
+                ],
+                "type": "Point"
+              },
+              "locality": "Satte",
+              "region": "Saitama"
+            }
+          ]
+        },
+        "description": "08/女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/dpd/bpd/cptsd/窝囊温良不骂人/不卖/骂我默认辱追/爱你们mua",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "幸",
+        "name": "ゆき",
+        "pinned_tweet_id": "2041482120028385312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052872311519498240/_QFl3sOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 669,
+          "like_count": 3452,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

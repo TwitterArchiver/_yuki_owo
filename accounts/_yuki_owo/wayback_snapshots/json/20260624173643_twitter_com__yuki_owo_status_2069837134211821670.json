@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069837121846697984"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2069837134211821670",
+    "created_at": "2026-06-24T17:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069837134211821670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6WOtMW1IEI",
+          "end": 28,
+          "expanded_url": "https://x.com/_yuki_owo/status/2069837134211821670/photo/1",
+          "media_key": "3_2069837121846697984",
+          "start": 5,
+          "url": "https://t.co/6WOtMW1IEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069837134211821670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "赎金一元 https://t.co/6WOtMW1IEI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069837121846697984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmJ5VaW4AAo59r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069837121846697984"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2069837134211821670",
+        "created_at": "2026-06-24T17:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069837134211821670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6WOtMW1IEI",
+              "end": 28,
+              "expanded_url": "https://x.com/_yuki_owo/status/2069837134211821670/photo/1",
+              "media_key": "3_2069837121846697984",
+              "start": 5,
+              "url": "https://t.co/6WOtMW1IEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069837134211821670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赎金一元 https://t.co/6WOtMW1IEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 697,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1848
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

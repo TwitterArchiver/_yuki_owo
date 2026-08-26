@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951396965293629448"
+      ]
+    },
+    "author_id": "1021411375992590339",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1951396978925117498",
+    "created_at": "2025-08-01T21:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T22:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951396978925117498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qSh9NkM3Kv",
+          "end": 23,
+          "expanded_url": "https://x.com/_YUKI_owo/status/1951396978925117498/photo/1",
+          "media_key": "3_1951396965293629448",
+          "start": 0,
+          "url": "https://t.co/qSh9NkM3Kv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951396978925117498",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "https://t.co/qSh9NkM3Kv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 973,
+        "media_key": "3_1951396965293629448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxTBM3QaIAgIUV0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951396965293629448"
+          ]
+        },
+        "author_id": "1021411375992590339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951396978925117498",
+        "created_at": "2025-08-01T21:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T22:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951396978925117498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSh9NkM3Kv",
+              "end": 23,
+              "expanded_url": "https://x.com/_YUKI_owo/status/1951396978925117498/photo/1",
+              "media_key": "3_1951396965293629448",
+              "start": 0,
+              "url": "https://t.co/qSh9NkM3Kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951396978925117498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/qSh9NkM3Kv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-07-23T15:07:03.000Z",
+        "description": "這裡是桔子✨🇹🇼\n中文為主✨日、英文學習中\n有時會發一些畫的圖上來✨",
+        "id": "1021411375992590339",
+        "name": "桔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802883361675128832/IXQLGMjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 255,
+          "like_count": 4094,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 59
+        },
+        "username": "_YUKI_owo",
+        "verified": false
+      }
+    ]
+  }
+}

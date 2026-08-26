@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062864652355428352",
+        "3_2062864652317630464"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2062864660639170858",
+    "created_at": "2026-06-05T11:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062864660639170858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lFavR4iGyg",
+          "end": 23,
+          "expanded_url": "https://x.com/_yuki_owo/status/2062864660639170858/photo/1",
+          "media_key": "3_2062864652355428352",
+          "start": 0,
+          "url": "https://t.co/lFavR4iGyg"
+        },
+        {
+          "display_url": "pic.x.com/lFavR4iGyg",
+          "end": 23,
+          "expanded_url": "https://x.com/_yuki_owo/status/2062864660639170858/photo/1",
+          "media_key": "3_2062864652317630464",
+          "start": 0,
+          "url": "https://t.co/lFavR4iGyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062864660639170858",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/lFavR4iGyg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2062864652355428352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDEeMda4AAcQYW.jpg",
+        "width": 1206
+      },
+      {
+        "height": 387,
+        "media_key": "3_2062864652317630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDEeMUaIAAcAfb.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062864652355428352",
+            "3_2062864652317630464"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2062864660639170858",
+        "created_at": "2026-06-05T11:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062864660639170858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFavR4iGyg",
+              "end": 23,
+              "expanded_url": "https://x.com/_yuki_owo/status/2062864660639170858/photo/1",
+              "media_key": "3_2062864652355428352",
+              "start": 0,
+              "url": "https://t.co/lFavR4iGyg"
+            },
+            {
+              "display_url": "pic.x.com/lFavR4iGyg",
+              "end": 23,
+              "expanded_url": "https://x.com/_yuki_owo/status/2062864660639170858/photo/1",
+              "media_key": "3_2062864652317630464",
+              "start": 0,
+              "url": "https://t.co/lFavR4iGyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062864660639170858",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lFavR4iGyg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/我是穷逼弱智糖人精神病/骂我默认辱追/喜欢我的我会宠你们/爱你们mua",
+        "id": "1957509667787325440",
+        "location": "天国",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 693,
+          "like_count": 3538,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1696
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

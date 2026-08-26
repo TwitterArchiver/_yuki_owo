@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2088966671855915417",
+    "created_at": "2026-08-20T13:45:54.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090435156213670041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2079859346742079488",
+          "start": 0,
+          "username": "erikrulk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090435156213670041",
+    "in_reply_to_user_id": "2079859346742079488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089292863729479798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erikrulk 好哦谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2088966671855915417",
+        "created_at": "2026-08-20T13:45:54.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090435156213670041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2079859346742079488",
+              "start": 0,
+              "username": "erikrulk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090435156213670041",
+        "in_reply_to_user_id": "2079859346742079488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089292863729479798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erikrulk 好哦谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079859346742079488",
+        "conversation_id": "2088966671855915417",
+        "created_at": "2026-08-17T10:06:50.000Z",
+        "display_text_range": [
+          11,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T11:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089292863729479798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089292863729479798",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088966671855915417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 给自己预设终点，接受并平淡的走去，除了期待期间可能的拯救和惊喜，还能稳定自己的心灵。\n(ʚ̴̶̷́ .̠ ʚ̴̶̷̥̀ ू)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2090435156213670041",
+        "name": "下水道",
+        "pinned_tweet_id": "2090385958864859579",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090430162873806848/KaYEX7ED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 746,
+          "like_count": 3860,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2117
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T09:24:00.000Z",
+        "description": "阴沉男（改善中）  地雷系（喜欢）视觉系（不明白但喜欢）  斯德哥尔摩（梦中）睡眠不足（十年）  双相（住院） 自卑（配得感低）焦虑 （ZC）  中度社恐（不敢坐公交） 共情 （自以为是）病娇（潜在）   无工作（寻找中) ENFJ（回应型）  喜爱所有性别所有人 有幸福家庭 喜欢与我同属性的回应型朋友",
+        "id": "2079859346742079488",
+        "is_identity_verified": false,
+        "location": "中国山东1129423380",
+        "most_recent_tweet_id": "2090402890984861761",
+        "name": "清晨",
+        "pinned_tweet_id": "2080010721929445398",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079859346742079488/1784793959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080390177709850624/Gjf1xos4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 117,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "erikrulk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

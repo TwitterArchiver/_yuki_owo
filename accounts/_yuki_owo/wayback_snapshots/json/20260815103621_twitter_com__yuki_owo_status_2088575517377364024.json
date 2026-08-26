@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2088575517377364024",
+    "created_at": "2026-08-15T10:36:21.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088575517377364024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/elihusoq/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/elihusoq/status/1714537259041431780",
+          "start": 39,
+          "url": "https://t.co/NiDOrs69gt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088575517377364024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1714537259041431780",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们这群现充怎么做到一吃饭就能叫到这么多人的，我特么死了葬礼都叫不到这么多人 https://t.co/NiDOrs69gt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2088575517377364024",
+        "created_at": "2026-08-15T10:36:21.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088575517377364024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elihusoq/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/elihusoq/status/1714537259041431780",
+              "start": 39,
+              "url": "https://t.co/NiDOrs69gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088575517377364024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1714537259041431780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这群现充怎么做到一吃饭就能叫到这么多人的，我特么死了葬礼都叫不到这么多人 https://t.co/NiDOrs69gt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497406985007939584",
+        "conversation_id": "1714537259041431780",
+        "created_at": "2023-10-18T07:01:51.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2023-10-18T08:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1714537259041431780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinfair/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Rinfair/status/1714536694631047447",
+              "start": 39,
+              "url": "https://t.co/fGn8BsDpX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1714537259041431780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1135,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1714536694631047447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这群现充怎么做到一吃饭就能叫到这么多人的，我特么死了葬礼都叫不到这么多人 https://t.co/fGn8BsDpX5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2088575517377364024",
+        "name": "下水道",
+        "pinned_tweet_id": "2077868369412595997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 715,
+          "like_count": 3724,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2032
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-26T03:03:51.000Z",
+        "description": "喵呜？喵～nya？～喵呜。喵？nya？nya。喵呜~。喵~。喵？nya!喵呜.nya~喵!喵～nya？喵呜！？nya！喵呜～.喵呜？喵呜！喵!！.喵？喵呜？喵～喵!喵.喵.喵！喵？～喵。喵！_(:з」∠)_",
+        "id": "1497406985007939584",
+        "is_identity_verified": false,
+        "location": "距妳 316272897264118 km",
+        "most_recent_tweet_id": "1945087748265681005",
+        "name": "𝓔𝓵𝓲𝓱𝓾𝓼𝓸 𝓠𝓾𝓲𝓰𝓵𝓮𝔂 🏳️‍⚧️ 𝓐𝓷𝓽𝓪𝓻𝓮",
+        "pinned_tweet_id": "1656314354986553345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497406985007939584/1681598476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835753229893632/GWa3C8V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 1089,
+          "like_count": 39909,
+          "listed_count": 10,
+          "media_count": 308,
+          "tweet_count": 11479
+        },
+        "url": "",
+        "username": "ElihusoQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

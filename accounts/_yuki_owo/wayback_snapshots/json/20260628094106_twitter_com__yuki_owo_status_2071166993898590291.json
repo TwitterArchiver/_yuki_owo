@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071166986659536896"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2071166993898590291",
+    "created_at": "2026-06-28T09:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071166993898590291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bHFX3SJ9GW",
+          "end": 79,
+          "expanded_url": "https://x.com/_yuki_owo/status/2071166993898590291/photo/1",
+          "media_key": "3_2071166986659536896",
+          "start": 56,
+          "url": "https://t.co/bHFX3SJ9GW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071166993898590291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "捏了一个我自己进去。好可爱啊给她默认是天真无邪了我将努力养好她我要让她开开心心的不要和现实里的我一样 好可爱😭 https://t.co/bHFX3SJ9GW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071166986659536896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5DZp5boAA3Xc_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071166986659536896"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2071166993898590291",
+        "created_at": "2026-06-28T09:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071166993898590291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHFX3SJ9GW",
+              "end": 79,
+              "expanded_url": "https://x.com/_yuki_owo/status/2071166993898590291/photo/1",
+              "media_key": "3_2071166986659536896",
+              "start": 56,
+              "url": "https://t.co/bHFX3SJ9GW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071166993898590291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捏了一个我自己进去。好可爱啊给她默认是天真无邪了我将努力养好她我要让她开开心心的不要和现实里的我一样 好可爱😭 https://t.co/bHFX3SJ9GW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 698,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1900
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

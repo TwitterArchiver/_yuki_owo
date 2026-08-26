@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2073776994052141333",
+    "created_at": "2026-08-07T13:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085720578061897763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1080848995612807168",
+          "start": 0,
+          "username": "apfengxiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085720578061897763",
+    "in_reply_to_user_id": "1080848995612807168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085100397308637553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apfengxiao 好嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2073776994052141333",
+        "created_at": "2026-08-07T13:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085720578061897763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1080848995612807168",
+              "start": 0,
+              "username": "apfengxiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085720578061897763",
+        "in_reply_to_user_id": "1080848995612807168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085100397308637553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apfengxiao 好嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080848995612807168",
+        "conversation_id": "2073776994052141333",
+        "created_at": "2026-08-05T20:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085100397308637553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085100397308637553",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073776994052141333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 还是尽量要按照医嘱来吃喔，乱吃药可能会出事的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n两次从第五高原幸存导致脑子烂掉了的神人一个",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 690,
+          "like_count": 3655,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2042
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-03T15:30:56.000Z",
+        "description": "男生～\n在职游戏策划～\nenfp\nacg乐队键盘手\n喜欢摸鱼的轻小说作者\n日语学习中…\n什么都能聊得来～\n欢迎来找我聊天～",
+        "id": "1080848995612807168",
+        "location": "拉海洛",
+        "name": "迷い猫",
+        "pinned_tweet_id": "1262388192264835073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967255602805309440/LSUcbYEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 499,
+          "like_count": 3195,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "apfengxiao",
+        "verified": false
+      }
+    ]
+  }
+}

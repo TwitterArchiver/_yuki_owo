@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2084945399987704223",
+    "created_at": "2026-08-07T13:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085719413475754066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1611298260999868418",
+          "start": 0,
+          "username": "lianci77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085719413475754066",
+    "in_reply_to_user_id": "1611298260999868418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084973975235653801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianci77 我也不知道。😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084973975235653801].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084973975235653801",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084973975235653801"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2084945399987704223",
+        "created_at": "2026-08-07T13:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085719413475754066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1611298260999868418",
+              "start": 0,
+              "username": "lianci77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085719413475754066",
+        "in_reply_to_user_id": "1611298260999868418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084973975235653801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianci77 我也不知道。😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n两次从第五高原幸存导致脑子烂掉了的神人一个",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 690,
+          "like_count": 3655,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2039
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T09:47:05.000Z",
+        "description": "得过且过，死了解脱",
+        "id": "1611298260999868418",
+        "location": "南京",
+        "name": "藤井树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611301187877507073/vCKuy7zr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 63,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "lianci77",
+        "verified": false
+      }
+    ]
+  }
+}

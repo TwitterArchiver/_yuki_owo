@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2068362718009254267",
+    "created_at": "2026-06-22T16:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069089450811076716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831226643823869952",
+          "start": 0,
+          "username": "houtengshiliyay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069089450811076716",
+    "in_reply_to_user_id": "1831226643823869952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068747402102849837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@houtengshiliyay 已向吉尼斯申请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2068362718009254267",
+        "created_at": "2026-06-22T16:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069089450811076716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831226643823869952",
+              "start": 0,
+              "username": "houtengshiliyay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069089450811076716",
+        "in_reply_to_user_id": "1831226643823869952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068747402102849837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@houtengshiliyay 已向吉尼斯申请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831226643823869952",
+        "conversation_id": "2068362718009254267",
+        "created_at": "2026-06-21T17:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068747402102849837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068747402102849837",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068362718009254267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 全世界最忧郁之人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 698,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1826
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T07:04:02.000Z",
+        "description": "",
+        "id": "1831226643823869952",
+        "name": "抹茶芭菲我爱吃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831230664932466688/Wzonas6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 42,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "houtengshiliyay",
+        "verified": false
+      }
+    ]
+  }
+}

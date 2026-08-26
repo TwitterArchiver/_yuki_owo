@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2067286766726578184",
+    "created_at": "2026-06-20T15:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068355910146359639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1719935566945366016",
+          "start": 0,
+          "username": "lenhanzhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068355910146359639",
+    "in_reply_to_user_id": "1719935566945366016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067307148045172746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lenhanzhao 笑死我了我之前玩了一会只会割草乱走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2067286766726578184",
+        "created_at": "2026-06-20T15:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068355910146359639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1719935566945366016",
+              "start": 0,
+              "username": "lenhanzhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068355910146359639",
+        "in_reply_to_user_id": "1719935566945366016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067307148045172746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lenhanzhao 笑死我了我之前玩了一会只会割草乱走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719935566945366016",
+        "conversation_id": "2067286766726578184",
+        "created_at": "2026-06-17T18:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067307148045172746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067307148045172746",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067286766726578184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 星露谷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 695,
+          "like_count": 3540,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1791
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T04:33:02.000Z",
+        "description": "尚蜀盘桓，三山十七峰。 电子，摄影，露营，深夜26点",
+        "id": "1719935566945366016",
+        "name": "冷寒昭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756947019459866624/nDPCmo36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 38,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "lenhanzhao",
+        "verified": false
+      }
+    ]
+  }
+}

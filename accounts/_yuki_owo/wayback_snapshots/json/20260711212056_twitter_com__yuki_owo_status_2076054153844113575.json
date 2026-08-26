@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2071565423271940223",
+    "created_at": "2026-07-11T21:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T22:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076054153844113575"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076054153844113575",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071565423271940223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恨你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2071565423271940223",
+        "created_at": "2026-07-11T21:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076054153844113575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076054153844113575",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071565423271940223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恨你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2071565423271940223",
+        "created_at": "2026-06-29T12:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071565423271940223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071565423271940223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1017,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有你的不幸才能让我在日日夜夜灼烧无尽苦楚中笑出来 你不幸那真是太好了 欺骗我抛弃我利用我的你真是罪该万死 你的不幸真是活该"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "🚪52 我叫七七",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "pinned_tweet_id": "2071565423271940223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071562637037756416/a4prxnjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 698,
+          "like_count": 3596,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1959
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

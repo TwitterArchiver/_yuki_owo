@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2024315270970691643",
+    "created_at": "2026-06-17T17:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067291919898869854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1945092627306831874",
+          "start": 0,
+          "username": "zailiwoyuandian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067291919898869854",
+    "in_reply_to_user_id": "1945092627306831874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067290252813976016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zailiwoyuandian 没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2024315270970691643",
+        "created_at": "2026-06-17T17:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067291919898869854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1945092627306831874",
+              "start": 0,
+              "username": "zailiwoyuandian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067291919898869854",
+        "in_reply_to_user_id": "1945092627306831874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067290252813976016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zailiwoyuandian 没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945092627306831874",
+        "conversation_id": "2024315270970691643",
+        "created_at": "2026-06-17T16:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067290252813976016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067290252813976016",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024315270970691643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 你有钱吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "下水道里的呕吐物一般肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 693,
+          "like_count": 3539,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1782
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T12:06:44.000Z",
+        "description": "我是你幻想中长大想成为的样子",
+        "id": "1945092627306831874",
+        "name": "这不是你说谎的地方",
+        "pinned_tweet_id": "2061745831473221941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067258052601155584/UjvuEtwy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 0,
+          "like_count": 6904,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1550
+        },
+        "url": "",
+        "username": "zailiwoyuandian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053941491069034496"
+      ],
+      "media_source_tweet_id": [
+        "2053941493338186075"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2056330690141343862",
+    "created_at": "2026-05-18T11:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056330690141343862"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "sfawtde"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1837710039043526659",
+          "start": 3,
+          "username": "jeliesandstars"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aLOdoS9L0Q",
+          "end": 103,
+          "expanded_url": "https://x.com/jeliesandstars/status/2053941493338186075/photo/1",
+          "media_key": "3_2053941491069034496",
+          "start": 80,
+          "url": "https://t.co/aLOdoS9L0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056330690141343862",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053941493338186075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jeliesandstars: #sfawtde now this is truly.... our world that doesn't exist https://t.co/aLOdoS9L0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2053941491069034496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEQ52SbIAAoxCC.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053941491069034496"
+          ],
+          "media_source_tweet_id": [
+            "2053941493338186075"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2056330690141343862",
+        "created_at": "2026-05-18T11:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056330690141343862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "sfawtde"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1837710039043526659",
+              "start": 3,
+              "username": "jeliesandstars"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLOdoS9L0Q",
+              "end": 103,
+              "expanded_url": "https://x.com/jeliesandstars/status/2053941493338186075/photo/1",
+              "media_key": "3_2053941491069034496",
+              "start": 80,
+              "url": "https://t.co/aLOdoS9L0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056330690141343862",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053941493338186075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jeliesandstars: #sfawtde now this is truly.... our world that doesn't exist https://t.co/aLOdoS9L0Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053941491069034496"
+          ]
+        },
+        "author_id": "1837710039043526659",
+        "conversation_id": "2053941493338186075",
+        "created_at": "2026-05-11T20:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053941493338186075"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "sfawtde"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLOdoS9L0Q",
+              "end": 83,
+              "expanded_url": "https://x.com/jeliesandstars/status/2053941493338186075/photo/1",
+              "media_key": "3_2053941491069034496",
+              "start": 60,
+              "url": "https://t.co/aLOdoS9L0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053941493338186075",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 36202,
+          "like_count": 6923,
+          "quote_count": 17,
+          "reply_count": 19,
+          "retweet_count": 1188
+        },
+        "reply_settings": "everyone",
+        "text": "#sfawtde now this is truly.... our world that doesn't exist https://t.co/aLOdoS9L0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08/女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/我是穷逼弱智糖人精神病/骂我默认辱追/喜欢我的我会宠你们/爱你们mua",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Pripyat",
+        "name": "ゆき",
+        "pinned_tweet_id": "2041482120028385312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052872311519498240/_QFl3sOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 667,
+          "like_count": 3454,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T04:26:47.000Z",
+        "description": ".˚⋆ 𝑱𝙎𝑻𝘼𝑹﹕﹙𝒔𝒉𝒆/𝒉𝒆𝒓﹚ ⋆  𝑑𝑖𝑔𝑖𝑡𝑎𝑙 𝑎𝑟𝑡𝑖𝑠𝑡 𖦹ׂ 🪼\n⚠️ 𖦹ׂ 𝅄 𝙢𝙞𝙣𝙤𝙧𝙨 𝙗𝙚𝙬𝙖𝙧𝙚 ﹕𝘮𝘢𝘺 𝘱𝘰𝘴𝘵 𝘴𝘶𝘨𝘨𝘦𝘴𝘵𝘪𝘷𝘦 𝘢𝘳𝘵\n𝙒𝑻𝙁I𝑰L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starsspace.straw.page",
+                "end": 23,
+                "expanded_url": "http://starsspace.straw.page",
+                "start": 0,
+                "url": "https://t.co/eyUW9qtBJO"
+              }
+            ]
+          }
+        },
+        "id": "1837710039043526659",
+        "location": "7 feet under",
+        "name": "jellies&stars | 📄FINALS",
+        "pinned_tweet_id": "2039490204348891313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051436959361613824/9wxW6MMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3321,
+          "following_count": 191,
+          "like_count": 20639,
+          "listed_count": 25,
+          "media_count": 1573,
+          "tweet_count": 8301
+        },
+        "url": "https://t.co/eyUW9qtBJO",
+        "username": "jeliesandstars",
+        "verified": false
+      }
+    ]
+  }
+}

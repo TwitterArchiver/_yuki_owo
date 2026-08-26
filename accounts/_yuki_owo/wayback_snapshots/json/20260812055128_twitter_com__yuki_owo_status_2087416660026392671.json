@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2087134591836631264",
+    "created_at": "2026-08-12T05:51:28.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087416660026392671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087416660026392671",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087134591836631264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 姐姐好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087134560782012417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPb90y3aUAEqsEq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087134560777908224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPb90y2bsAA-S1s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2087134591836631264",
+        "created_at": "2026-08-12T05:51:28.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087416660026392671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087416660026392671",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087134591836631264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 姐姐好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087134560782012417",
+            "3_2087134560777908224"
+          ]
+        },
+        "author_id": "1767122266414882816",
+        "conversation_id": "2087134591836631264",
+        "created_at": "2026-08-11T11:10:38.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087134591836631264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtMjkv4BzC",
+              "end": 27,
+              "expanded_url": "https://x.com/shu_fan0228/status/2087134591836631264/photo/1",
+              "media_key": "3_2087134560782012417",
+              "start": 4,
+              "url": "https://t.co/LtMjkv4BzC"
+            },
+            {
+              "display_url": "pic.x.com/LtMjkv4BzC",
+              "end": 27,
+              "expanded_url": "https://x.com/shu_fan0228/status/2087134591836631264/photo/1",
+              "media_key": "3_2087134560777908224",
+              "start": 4,
+              "url": "https://t.co/LtMjkv4BzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087134591836631264",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087134560782012417"
+          },
+          {
+            "media_key": "3_2087134560777908224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1990,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大姐姐 https://t.co/LtMjkv4BzC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n两次从第五高原幸存导致脑子烂掉了的神人一个",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2087416660026392671",
+        "name": "下水道",
+        "pinned_tweet_id": "2077868369412595997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 704,
+          "like_count": 3683,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2071
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "这里是飯～叫我饭饭之类的都可以。\n我在青岛，欢迎女生来找我玩呀！\n这个号完全不是认真经营的那种，会吐很多黑泥，我总是在飞、偶尔降落",
+        "id": "1767122266414882816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087314494280392816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "2071318336601030813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767122266414882816/1747947358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081039190616412160/fja64vW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 174,
+          "like_count": 3507,
+          "listed_count": 4,
+          "media_count": 761,
+          "tweet_count": 4645
+        },
+        "url": "",
+        "username": "shu_fan0228",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

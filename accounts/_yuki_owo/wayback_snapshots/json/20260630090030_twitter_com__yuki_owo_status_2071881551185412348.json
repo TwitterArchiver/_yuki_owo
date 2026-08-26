@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071881542809354240"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2071881551185412348",
+    "created_at": "2026-06-30T09:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071881551185412348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bioQenNrJj",
+          "end": 28,
+          "expanded_url": "https://x.com/_yuki_owo/status/2071881551185412348/photo/1",
+          "media_key": "3_2071881542809354240",
+          "start": 5,
+          "url": "https://t.co/bioQenNrJj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071881551185412348",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新衣服。 https://t.co/bioQenNrJj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1571,
+        "media_key": "3_2071881542809354240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDNSS_XAAABHoA.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071881542809354240"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2071881551185412348",
+        "created_at": "2026-06-30T09:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071881551185412348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bioQenNrJj",
+              "end": 28,
+              "expanded_url": "https://x.com/_yuki_owo/status/2071881551185412348/photo/1",
+              "media_key": "3_2071881542809354240",
+              "start": 5,
+              "url": "https://t.co/bioQenNrJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071881551185412348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新衣服。 https://t.co/bioQenNrJj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "🚪52",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071562637037756416/a4prxnjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 699,
+          "like_count": 3570,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1920
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

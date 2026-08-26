@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2062865573449789535",
+    "created_at": "2026-06-05T11:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062865573449789535"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062865573449789535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前两天pcp+dxm和一些意识模糊时候摄入的我自己都不记得的药物过度联用导致的很难受的濒死 大家引以为戒吧 其实前两天是做好了死掉的决心了 但是没死应该是我命不该绝吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2062865573449789535",
+        "created_at": "2026-06-05T11:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062865573449789535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062865573449789535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天pcp+dxm和一些意识模糊时候摄入的我自己都不记得的药物过度联用导致的很难受的濒死 大家引以为戒吧 其实前两天是做好了死掉的决心了 但是没死应该是我命不该绝吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "没有人应该死在笼子里",
+        "id": "1957509667787325440",
+        "location": "天国",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 693,
+          "like_count": 3538,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1697
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054930570267041792"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2054930588386332916",
+    "created_at": "2026-05-14T14:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054930588386332916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HDtgvYRo7n",
+          "end": 23,
+          "expanded_url": "https://x.com/_yuki_owo/status/2054930588386332916/photo/1",
+          "media_key": "3_2054930570267041792",
+          "start": 0,
+          "url": "https://t.co/HDtgvYRo7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054930588386332916",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/HDtgvYRo7n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2054930570267041792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISUd1bboAAtCfj.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054930570267041792"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2054930588386332916",
+        "created_at": "2026-05-14T14:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054930588386332916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDtgvYRo7n",
+              "end": 23,
+              "expanded_url": "https://x.com/_yuki_owo/status/2054930588386332916/photo/1",
+              "media_key": "3_2054930570267041792",
+              "start": 0,
+              "url": "https://t.co/HDtgvYRo7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054930588386332916",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HDtgvYRo7n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08/女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/dpd/bpd/cptsd/骂我默认辱追/爱你们mua/我是穷逼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Pripyat",
+        "name": "ゆき",
+        "pinned_tweet_id": "2041482120028385312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052872311519498240/_QFl3sOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 670,
+          "like_count": 3449,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

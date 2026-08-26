@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1021411375992590339",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1953539735072518538",
+    "created_at": "2025-08-07T19:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T20:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953539735072518538"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 116,
+          "normalized_text": "YouTube",
+          "probability": 0.7537,
+          "start": 110,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3503334792",
+          "start": 3,
+          "username": "hhubiribiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953539735072518538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3606
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953351364186144968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hhubiribiri: 【勇者ヒンメルプレゼント企画🎁】\n\n&lt;応募条件&gt;\n①このアカウントをフォロー！\n②このポストをいいね&amp;リポスト！\n\n抽選で3名にプレゼントしようと思うので是非！\n\nYouTubeの方でもヒンメルプレゼント企画するのでチャンネル登録よろしく！\nh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1953350026882891777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuxgApawAE2f5N.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1021411375992590339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1953539735072518538",
+        "created_at": "2025-08-07T19:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T20:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953539735072518538"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 116,
+              "normalized_text": "YouTube",
+              "probability": 0.7537,
+              "start": 110,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3503334792",
+              "start": 3,
+              "username": "hhubiribiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953539735072518538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3606
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953351364186144968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hhubiribiri: 【勇者ヒンメルプレゼント企画🎁】\n\n&lt;応募条件&gt;\n①このアカウントをフォロー！\n②このポストをいいね&amp;リポスト！\n\n抽選で3名にプレゼントしようと思うので是非！\n\nYouTubeの方でもヒンメルプレゼント企画するのでチャンネル登録よろしく！\nh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953350026882891777"
+          ]
+        },
+        "author_id": "3503334792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1953351364186144968",
+        "created_at": "2025-08-07T07:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T07:58:34.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953350033291776389",
+          "1953351151275131064",
+          "1953351364186144968"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 99,
+              "normalized_text": "YouTube",
+              "probability": 0.7418,
+              "start": 93,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 160,
+              "start": 155,
+              "tag": "第五人格"
+            },
+            {
+              "end": 171,
+              "start": 161,
+              "tag": "IdentityV"
+            }
+          ],
+          "urls": [
+            {
+              "description": "見てくれてありがとナ⭐︎",
+              "display_url": "youtube.com/@hhuch?si=FH-X…",
+              "end": 154,
+              "expanded_url": "https://youtube.com/@hhuch?si=FH-Xz340sdgSyyyX",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/1953350035049201664/SgO97K0k?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1953350035049201664/SgO97K0k?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "RC hhu.はふぅch",
+              "unwound_url": "https://www.youtube.com/@hhuch?si=FH-Xz340sdgSyyyX",
+              "url": "https://t.co/xxEFy3pLsx"
+            },
+            {
+              "display_url": "pic.x.com/6gvAqTrVDy",
+              "end": 195,
+              "expanded_url": "https://x.com/hhubiribiri/status/1953351364186144968/photo/1",
+              "media_key": "3_1953350026882891777",
+              "start": 172,
+              "url": "https://t.co/6gvAqTrVDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953351364186144968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 168256,
+          "like_count": 4388,
+          "quote_count": 46,
+          "reply_count": 176,
+          "retweet_count": 3606
+        },
+        "reply_settings": "everyone",
+        "text": "【勇者ヒンメルプレゼント企画🎁】\n\n&lt;応募条件&gt;\n①このアカウントをフォロー！\n②このポストをいいね&amp;リポスト！\n\n抽選で3名にプレゼントしようと思うので是非！\n\nYouTubeの方でもヒンメルプレゼント企画するのでチャンネル登録よろしく！\nhttps://t.co/xxEFy3pLsx\n#第五人格 #IdentityV https://t.co/6gvAqTrVDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-07-23T15:07:03.000Z",
+        "description": "這裡是桔子✨🇹🇼\n中文為主✨日、英文學習中\n有時會發一些畫的圖上來✨",
+        "id": "1021411375992590339",
+        "name": "桔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802883361675128832/IXQLGMjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 254,
+          "like_count": 4106,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 59
+        },
+        "username": "_YUKI_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-09T10:50:26.000Z",
+        "description": "REJECT所属 │ @RC_REJECT │ @hhubirisub | 第五人格 │ IdentityV │ YouTube↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "RC_REJECT"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "hhubirisub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/macrossfr…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/user/macrossfrontier30",
+                "start": 0,
+                "url": "https://t.co/x9ni7tPe8T"
+              }
+            ]
+          }
+        },
+        "id": "3503334792",
+        "location": "LM",
+        "name": "RC hhu",
+        "pinned_tweet_id": "1804784184650854530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925861727020748800/dyi9uJwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18835,
+          "following_count": 256,
+          "like_count": 3877,
+          "listed_count": 219,
+          "media_count": 1105,
+          "tweet_count": 17317
+        },
+        "url": "https://t.co/x9ni7tPe8T",
+        "username": "hhubiribiri",
+        "verified": true
+      }
+    ]
+  }
+}

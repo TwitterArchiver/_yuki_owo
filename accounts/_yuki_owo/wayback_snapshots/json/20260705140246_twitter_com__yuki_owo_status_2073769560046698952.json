@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073769551121252352"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2073769560046698952",
+    "created_at": "2026-07-05T14:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073769560046698952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOUn9g5swz",
+          "end": 33,
+          "expanded_url": "https://x.com/_yuki_owo/status/2073769560046698952/photo/1",
+          "media_key": "3_2073769551121252352",
+          "start": 10,
+          "url": "https://t.co/wOUn9g5swz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073769560046698952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最可爱最肮脏最不幸 https://t.co/wOUn9g5swz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2073769551121252352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeCa2CagAAw2Qk.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073769551121252352"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2073769560046698952",
+        "created_at": "2026-07-05T14:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073769560046698952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOUn9g5swz",
+              "end": 33,
+              "expanded_url": "https://x.com/_yuki_owo/status/2073769560046698952/photo/1",
+              "media_key": "3_2073769551121252352",
+              "start": 10,
+              "url": "https://t.co/wOUn9g5swz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073769560046698952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最可爱最肮脏最不幸 https://t.co/wOUn9g5swz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "死宅阴暗逼 同类互fo漏fo私我\n🚪52 我叫七七",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "pinned_tweet_id": "2071565423271940223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071562637037756416/a4prxnjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 704,
+          "like_count": 3592,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1950
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2060356182691463190",
+    "created_at": "2026-05-30T10:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060677006136951083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1922456644002447364",
+          "start": 0,
+          "username": "ZiXia11115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060677006136951083",
+    "in_reply_to_user_id": "1922456644002447364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060585416135495964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiXia11115 啊啊啊谢谢你。看哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2060356182691463190",
+        "created_at": "2026-05-30T10:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060677006136951083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1922456644002447364",
+              "start": 0,
+              "username": "ZiXia11115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060677006136951083",
+        "in_reply_to_user_id": "1922456644002447364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060585416135495964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiXia11115 啊啊啊谢谢你。看哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922456644002447364",
+        "conversation_id": "2060356182691463190",
+        "created_at": "2026-05-30T04:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060585416135495964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060585416135495964",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060356182691463190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 社交问题应该不在你，而是他们。欺负你也是那些人的错。而不是你。有的人就是很坏的。游戏本来就是娱乐。不要本末倒置啦。吃药的问题可以和我聊聊吗？药物是治愈由身体引发的心理问题的。朋友亲人恋人离开的现状一定给你带来了很重的精神创伤。一切都会好起来的。加油。你是很棒的!一定能成功的哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08/女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/我是穷逼弱智糖人精神病/骂我默认辱追/喜欢我的我会宠你们/爱你们mua",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Pripyat",
+        "name": "下水道",
+        "pinned_tweet_id": "2041482120028385312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052872311519498240/_QFl3sOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 693,
+          "like_count": 3463,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T01:00:27.000Z",
+        "description": "称呼xiapazi就好（外号）姑且算是老师的学生吧",
+        "id": "1922456644002447364",
+        "name": "虾爬子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056709937972338688/NbW8bHeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 312
+        },
+        "username": "ZiXia11115",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2068357593974886591",
+    "created_at": "2026-06-20T15:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068357593974886591"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068357593974886591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呵呵呃呃呃操你妈有的健全逼好恶心（不是所有）我也认识善良的健全人但是有的他妈的幸福逼健全逼不仅他妈的认知短浅还不自知然后他妈的恶心人我操了我要死了恶心死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2068357593974886591",
+        "created_at": "2026-06-20T15:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068357593974886591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068357593974886591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵呃呃呃操你妈有的健全逼好恶心（不是所有）我也认识善良的健全人但是有的他妈的幸福逼健全逼不仅他妈的认知短浅还不自知然后他妈的恶心人我操了我要死了恶心死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 696,
+          "like_count": 3540,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1795
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902006514854035456"
+      ],
+      "media_source_tweet_id": [
+        "1902006521023926329"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2068608765126136192",
+    "created_at": "2026-06-21T08:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068608765126136192"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 23,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870226597699297280",
+          "start": 3,
+          "username": "xsefpxss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OAFXZFxdPz",
+          "end": 53,
+          "expanded_url": "https://x.com/xsefpxss/status/1902006521023926329/photo/1",
+          "media_key": "3_1902006514854035456",
+          "start": 30,
+          "url": "https://t.co/OAFXZFxdPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068608765126136192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902006521023926329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xsefpxss: 永遠にそばにいて　#自撮り界隈 https://t.co/OAFXZFxdPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1815,
+        "media_key": "3_1902006514854035456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVI2RZagAA5W1V.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902006514854035456"
+          ],
+          "media_source_tweet_id": [
+            "1902006521023926329"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2068608765126136192",
+        "created_at": "2026-06-21T08:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068608765126136192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870226597699297280",
+              "start": 3,
+              "username": "xsefpxss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAFXZFxdPz",
+              "end": 53,
+              "expanded_url": "https://x.com/xsefpxss/status/1902006521023926329/photo/1",
+              "media_key": "3_1902006514854035456",
+              "start": 30,
+              "url": "https://t.co/OAFXZFxdPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068608765126136192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902006521023926329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xsefpxss: 永遠にそばにいて　#自撮り界隈 https://t.co/OAFXZFxdPz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902006514854035456"
+          ]
+        },
+        "author_id": "1870226597699297280",
+        "conversation_id": "1902006521023926329",
+        "created_at": "2025-03-18T14:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T15:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902006521023926329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAFXZFxdPz",
+              "end": 39,
+              "expanded_url": "https://x.com/xsefpxss/status/1902006521023926329/photo/1",
+              "media_key": "3_1902006514854035456",
+              "start": 16,
+              "url": "https://t.co/OAFXZFxdPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902006521023926329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 22545,
+          "like_count": 614,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "永遠にそばにいて　#自撮り界隈 https://t.co/OAFXZFxdPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068358075711643649/fKih7_di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 699,
+          "like_count": 3549,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1824
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T21:55:56.000Z",
+        "description": "♥@4qxliv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 1,
+                "username": "4qxliv"
+              }
+            ]
+          }
+        },
+        "id": "1870226597699297280",
+        "name": "はじまり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897834222435680258/Utqs7wRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 15,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "xsefpxss",
+        "verified": false
+      }
+    ]
+  }
+}

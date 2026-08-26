@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052871758890536960",
+        "3_2052871758894776320"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2052871768986333283",
+    "created_at": "2026-05-08T22:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052871768986333283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ezUduaIAt8",
+          "end": 55,
+          "expanded_url": "https://x.com/_yuki_owo/status/2052871768986333283/photo/1",
+          "media_key": "3_2052871758890536960",
+          "start": 32,
+          "url": "https://t.co/ezUduaIAt8"
+        },
+        {
+          "display_url": "pic.x.com/ezUduaIAt8",
+          "end": 55,
+          "expanded_url": "https://x.com/_yuki_owo/status/2052871768986333283/photo/1",
+          "media_key": "3_2052871758894776320",
+          "start": 32,
+          "url": "https://t.co/ezUduaIAt8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052871768986333283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "半夜翻墙进以前老师欺负我的垃圾小学烧了个墙角 我就这样莫名其妙 https://t.co/ezUduaIAt8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052871758890536960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1D_PYaEAAsvRN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052871758894776320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1D_PZawAAVAut.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052871758890536960",
+            "3_2052871758894776320"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2052871768986333283",
+        "created_at": "2026-05-08T22:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052871768986333283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezUduaIAt8",
+              "end": 55,
+              "expanded_url": "https://x.com/_yuki_owo/status/2052871768986333283/photo/1",
+              "media_key": "3_2052871758890536960",
+              "start": 32,
+              "url": "https://t.co/ezUduaIAt8"
+            },
+            {
+              "display_url": "pic.x.com/ezUduaIAt8",
+              "end": 55,
+              "expanded_url": "https://x.com/_yuki_owo/status/2052871768986333283/photo/1",
+              "media_key": "3_2052871758894776320",
+              "start": 32,
+              "url": "https://t.co/ezUduaIAt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052871768986333283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜翻墙进以前老师欺负我的垃圾小学烧了个墙角 我就这样莫名其妙 https://t.co/ezUduaIAt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Satte, Saitama, Japan",
+              "geo": {
+                "coordinates": [
+                  139.72615,
+                  36.07254
+                ],
+                "type": "Point"
+              },
+              "locality": "Satte",
+              "region": "Saitama"
+            }
+          ]
+        },
+        "description": "08/女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/dpd/bpd/cptsd/窝囊温良不骂人/不卖/骂我默认辱追/爱你们mua",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "幸",
+        "name": "ゆき",
+        "pinned_tweet_id": "2041482120028385312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027692834946748417/IfbOeCJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 668,
+          "like_count": 3452,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1570
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

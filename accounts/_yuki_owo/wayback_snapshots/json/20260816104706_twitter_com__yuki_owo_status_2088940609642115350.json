@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2087510445825630606",
+    "created_at": "2026-08-16T10:47:06.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088940609642115350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945371083827503105",
+          "start": 0,
+          "username": "zhmng189975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088940609642115350",
+    "in_reply_to_user_id": "1945371083827503105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088932404186746982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhmng189975 不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2087510445825630606",
+        "created_at": "2026-08-16T10:47:06.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088940609642115350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945371083827503105",
+              "start": 0,
+              "username": "zhmng189975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088940609642115350",
+        "in_reply_to_user_id": "1945371083827503105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088932404186746982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhmng189975 不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945371083827503105",
+        "conversation_id": "2087510445825630606",
+        "created_at": "2026-08-16T10:14:30.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088932404186746982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088932404186746982",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087510445825630606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 钉子摘了喝水会漏出来吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2088940609642115350",
+        "name": "下水道",
+        "pinned_tweet_id": "2077868369412595997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 729,
+          "like_count": 3791,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2044
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T06:33:20.000Z",
+        "description": "我都把你当人了你能不能装点像一点\nhttps://t.co/sp9TY4Tm7B谁来给我发",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1111116440",
+                "end": 40,
+                "expanded_url": "https://ngl.link/1111116440",
+                "start": 17,
+                "url": "https://t.co/sp9TY4Tm7B"
+              }
+            ]
+          }
+        },
+        "id": "1945371083827503105",
+        "is_identity_verified": false,
+        "location": "Florida, USA",
+        "most_recent_tweet_id": "2088940514938871834",
+        "name": "忧郁喵社男",
+        "pinned_tweet_id": "2070446716072136780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945371083827503105/1752815577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946075696519946241/ZSmktDVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 68,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "zhmng189975",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

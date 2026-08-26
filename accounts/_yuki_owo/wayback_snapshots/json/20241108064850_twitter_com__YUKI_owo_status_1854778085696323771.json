@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1021411375992590339",
+    "conversation_id": "1854778085696323771",
+    "created_at": "2024-11-08T06:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T07:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854778085696323771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750066500613058560",
+          "start": 3,
+          "username": "ZZZ_CHT"
+        },
+        {
+          "end": 92,
+          "id": "1750066500613058560",
+          "start": 84,
+          "username": "ZZZ_CHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854778085696323771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853648644177793341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZZ_CHT: 🎁《絕區零》月城柳角色PV｜鬼佑之人\n\n人類與鬼族的血，\n在你的身上交融。\n活下去，替我做到我做不到的事。\n不要讓我們的血，白白流淌。\n\n跟隨@ZZZ_CHT &amp; 轉發本推文，我們將隨機抽取30名玩家送出壓克力冰箱貼套組 都市款 ×1！\n\n▼YouTu…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1021411375992590339",
+        "conversation_id": "1854778085696323771",
+        "created_at": "2024-11-08T06:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T07:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854778085696323771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750066500613058560",
+              "start": 3,
+              "username": "ZZZ_CHT"
+            },
+            {
+              "end": 92,
+              "id": "1750066500613058560",
+              "start": 84,
+              "username": "ZZZ_CHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854778085696323771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853648644177793341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZZZ_CHT: 🎁《絕區零》月城柳角色PV｜鬼佑之人\n\n人類與鬼族的血，\n在你的身上交融。\n活下去，替我做到我做不到的事。\n不要讓我們的血，白白流淌。\n\n跟隨@ZZZ_CHT &amp; 轉發本推文，我們將隨機抽取30名玩家送出壓克力冰箱貼套組 都市款 ×1！\n\n▼YouTu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1853632331032219648"
+          ]
+        },
+        "author_id": "1750066500613058560",
+        "conversation_id": "1853648644177793341",
+        "created_at": "2024-11-05T04:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T05:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853648644177793341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1750066500613058560",
+              "start": 71,
+              "username": "ZZZ_CHT"
+            }
+          ],
+          "urls": [
+            {
+              "description": "人類與鬼族的血，在你的身上交融。活下去，替我做到我做不到的事。不要讓我們的血，白白流淌。——歡迎來到新艾利都！——PS5·iOS·Android·PC｜HoYoverse都市幻想ARPG《絕區零》1.2版本「火獄騎行」已正式上線：https://hoyo.link/6SOkFDAL▼ 官方社群 ▼歡迎各位繩匠追蹤...",
+              "display_url": "youtu.be/KRGI5dZUOk4",
+              "end": 156,
+              "expanded_url": "https://youtu.be/KRGI5dZUOk4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1853648647495557120/oRXEi3EQ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1853648647495557120/oRXEi3EQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 133,
+              "status": 200,
+              "title": "《絕區零》月城柳角色PV｜鬼佑之人",
+              "unwound_url": "https://www.youtube.com/watch?v=KRGI5dZUOk4&feature=youtu.be",
+              "url": "https://t.co/OFz1t7m0ii"
+            },
+            {
+              "display_url": "pic.x.com/f6SJW4U5zJ",
+              "end": 188,
+              "expanded_url": "https://x.com/ZZZ_CHT/status/1853648644177793341/video/1",
+              "media_key": "7_1853632331032219648",
+              "start": 165,
+              "url": "https://t.co/f6SJW4U5zJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853648644177793341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 189,
+                "start": 185,
+                "tag": "絕區零"
+              },
+              {
+                "end": 194,
+                "start": 190,
+                "tag": "月城柳"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "id": "1750066500613058560",
+                "start": 71,
+                "username": "ZZZ_CHT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtu.be/KRGI5dZUOk4",
+                "end": 152,
+                "expanded_url": "https://youtu.be/KRGI5dZUOk4",
+                "start": 129,
+                "url": "https://t.co/UJhWiGSV1C"
+              },
+              {
+                "display_url": "hoyo.link/eADjFBAL",
+                "end": 183,
+                "expanded_url": "https://hoyo.link/eADjFBAL",
+                "start": 160,
+                "url": "https://t.co/zwydFHsuvg"
+              }
+            ]
+          },
+          "text": "🎁《絕區零》月城柳角色PV｜鬼佑之人\n\n人類與鬼族的血，\n在你的身上交融。\n活下去，替我做到我做不到的事。\n不要讓我們的血，白白流淌。\n\n跟隨@ZZZ_CHT & 轉發本推文，我們將隨機抽取30名玩家送出壓克力冰箱貼套組 都市款 ×1！\n\n▼YouTube\nhttps://t.co/UJhWiGSV1C\n\n▼活動規則\nhttps://t.co/zwydFHsuvg\n\n#絕區零 #月城柳"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 13204,
+          "like_count": 240,
+          "quote_count": 10,
+          "reply_count": 11,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "🎁《絕區零》月城柳角色PV｜鬼佑之人\n\n人類與鬼族的血，\n在你的身上交融。\n活下去，替我做到我做不到的事。\n不要讓我們的血，白白流淌。\n\n跟隨@ZZZ_CHT &amp; 轉發本推文，我們將隨機抽取30名玩家送出壓克力冰箱貼套組 都市款 ×1！\n\n▼YouTube\nhttps://t.co/OFz1t7m0ii\n\n▼活動規則… https://t.co/f6SJW4U5zJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-07-23T15:07:03.000Z",
+        "description": "這裡是桔子✨🇹🇼\n中文為主✨日、英文學習中\n有時會發一些畫的圖上來✨",
+        "id": "1021411375992590339",
+        "name": "桔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802883361675128832/IXQLGMjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 232,
+          "like_count": 3937,
+          "listed_count": 1,
+          "tweet_count": 57
+        },
+        "username": "_YUKI_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T08:02:29.000Z",
+        "description": "PS5·iOS·Android·PC｜HoYoverse都市幻想ARPG《絕區零》1.3版本「虛擬殺機」已正式上線：：https://t.co/k2lzoJvrva",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 82,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 59,
+                "url": "https://t.co/k2lzoJvrva"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 0,
+                "url": "https://t.co/k2lzoJvrva"
+              }
+            ]
+          }
+        },
+        "id": "1750066500613058560",
+        "name": "絕區零",
+        "pinned_tweet_id": "1853648644177793341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768538671836540928/e2IIhoKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26996,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 25,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/k2lzoJvrva",
+        "username": "ZZZ_CHT",
+        "verified": true
+      }
+    ]
+  }
+}

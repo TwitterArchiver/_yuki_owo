@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2060356182691463190",
+    "created_at": "2026-05-30T14:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060724748540412378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850538060938891264",
+          "start": 0,
+          "username": "sonshin1812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060724748540412378",
+    "in_reply_to_user_id": "1850538060938891264",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060552784353828928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonshin1812 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2060356182691463190",
+        "created_at": "2026-05-30T14:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060724748540412378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850538060938891264",
+              "start": 0,
+              "username": "sonshin1812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060724748540412378",
+        "in_reply_to_user_id": "1850538060938891264",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060552784353828928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonshin1812 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850538060938891264",
+        "conversation_id": "2060356182691463190",
+        "created_at": "2026-05-30T02:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060552784353828928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060552784353828928",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060356182691463190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 国产一滴泪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/我是穷逼弱智糖人精神病/骂我默认辱追/喜欢我的我会宠你们/爱你们mua",
+        "id": "1957509667787325440",
+        "location": "天国",
+        "name": "下水道",
+        "pinned_tweet_id": "2041482120028385312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 691,
+          "like_count": 3468,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1673
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T14:00:54.000Z",
+        "description": "欧易邀请码:16041108",
+        "id": "1850538060938891264",
+        "name": "加密晨哥🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885406601424572416/WXA03R9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 33,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 439
+        },
+        "username": "sonshin1812",
+        "verified": false
+      }
+    ]
+  }
+}

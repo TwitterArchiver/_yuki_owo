@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2076725472478814656",
+    "created_at": "2026-07-14T04:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076880693540643169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727277830025973760",
+          "start": 0,
+          "username": "yuriano3479"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076880693540643169",
+    "in_reply_to_user_id": "1727277830025973760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076725472478814656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuriano3479 卧槽好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12041,
+        "height": 1280,
+        "media_key": "13_2076725394330542080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076725394330542080/img/brrDRBiueqxy56gd.jpg",
+        "public_metrics": {
+          "view_count": 126
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076725394330542080/vid/avc1/320x568/gb_8w1CxQWO6YqiO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076725394330542080/vid/avc1/480x852/dY9ifhogneVFI2Rh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076725394330542080/vid/avc1/720x1280/B9W8YjPWkH4wmiOc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076725394330542080/pl/_acrBmXSRed3qkHN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2076725472478814656",
+        "created_at": "2026-07-14T04:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076880693540643169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727277830025973760",
+              "start": 0,
+              "username": "yuriano3479"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076880693540643169",
+        "in_reply_to_user_id": "1727277830025973760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076725472478814656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuriano3479 卧槽好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076725394330542080"
+          ]
+        },
+        "author_id": "1727277830025973760",
+        "conversation_id": "2076725472478814656",
+        "created_at": "2026-07-13T17:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076725472478814656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMh22BF9lY",
+              "end": 29,
+              "expanded_url": "https://x.com/yuriano3479/status/2076725472478814656/video/1",
+              "media_key": "13_2076725394330542080",
+              "start": 6,
+              "url": "https://t.co/bMh22BF9lY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076725472478814656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 389,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给自己画的 https://t.co/bMh22BF9lY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "🚪52 我叫七七",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "弃泣七妻",
+        "pinned_tweet_id": "2076879094231486468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076877607145242624/kzelCep__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 699,
+          "like_count": 3606,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1976
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "ユリです。我喜欢猫和烟 喜欢我就请关注吧^什么都发｜中文/日本語/Eng｜不回复dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2062862792403951637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 372,
+          "like_count": 5815,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

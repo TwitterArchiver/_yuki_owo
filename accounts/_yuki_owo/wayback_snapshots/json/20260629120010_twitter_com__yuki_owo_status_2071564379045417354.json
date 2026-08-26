@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2071564379045417354",
+    "created_at": "2026-06-29T12:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071564379045417354"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071564379045417354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有你的不幸才能抵消日日夜夜灼烧我的无尽苦楚 我早就说过除了我不会有人对你这么好 因为我明白你和我一样都是被不幸裹挟成长的畜牲 和我一样卑鄙还擅长自我欺骗自以为很高尚 但我恨着你 因为我爱过你 我的生活被你毁掉又何妨 我会在废墟上重建的 以你的痛苦为养料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2071564379045417354",
+        "created_at": "2026-06-29T12:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071564379045417354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071564379045417354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有你的不幸才能抵消日日夜夜灼烧我的无尽苦楚 我早就说过除了我不会有人对你这么好 因为我明白你和我一样都是被不幸裹挟成长的畜牲 和我一样卑鄙还擅长自我欺骗自以为很高尚 但我恨着你 因为我爱过你 我的生活被你毁掉又何妨 我会在废墟上重建的 以你的痛苦为养料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "恨",
+        "name": "下水道",
+        "pinned_tweet_id": "2070522030114660377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071562637037756416/a4prxnjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 700,
+          "like_count": 3571,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1921
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

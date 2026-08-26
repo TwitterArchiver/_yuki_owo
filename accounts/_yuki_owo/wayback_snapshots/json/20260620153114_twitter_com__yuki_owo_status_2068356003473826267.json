@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2067286766726578184",
+    "created_at": "2026-06-20T15:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068356003473826267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1548931550942617600",
+          "start": 0,
+          "username": "Luoyin114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068356003473826267",
+    "in_reply_to_user_id": "1548931550942617600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067447137173172551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoyin114514 哇塞可。我一个人半夜也会被吓到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2067286766726578184",
+        "created_at": "2026-06-20T15:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068356003473826267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1548931550942617600",
+              "start": 0,
+              "username": "Luoyin114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068356003473826267",
+        "in_reply_to_user_id": "1548931550942617600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067447137173172551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoyin114514 哇塞可。我一个人半夜也会被吓到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548931550942617600",
+        "conversation_id": "2067286766726578184",
+        "created_at": "2026-06-18T03:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067447137173172551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067447137173172551",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067286766726578184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 我的世界，一个人深夜玩我的世界 bgm 真的会杀了我，但是两个人不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我和下水道里渗出的呕吐物一般丑陋肮脏不堪",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 695,
+          "like_count": 3540,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1793
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T07:24:07.000Z",
+        "description": "我上网就是为了来皇帝的（黄帝搞点黄色怎么了嘛）\n但是你们的雷霆发言真的好好玩！多发，爱看！",
+        "id": "1548931550942617600",
+        "location": "我人都在东莞，刻板印象一点啦",
+        "name": "Luoyang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067292841491984384/RnxrbH-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "Luoyin114514",
+        "verified": false
+      }
+    ]
+  }
+}

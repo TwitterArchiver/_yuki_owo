@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2063621593704927354",
+    "created_at": "2026-06-07T13:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063621593704927354"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063621593704927354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一想到你对我做过的事我就想吐只剩纯粹的恶心和恨意它们侵占了我的脑子我不再是我了我只是一个恨你的存在我不是我我早就忘掉你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2063621593704927354",
+        "created_at": "2026-06-07T13:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063621593704927354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063621593704927354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到你对我做过的事我就想吐只剩纯粹的恶心和恨意它们侵占了我的脑子我不再是我了我只是一个恨你的存在我不是我我早就忘掉你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我是把推特当垃圾桶的低脂弱智",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 690,
+          "like_count": 3541,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1717
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}
