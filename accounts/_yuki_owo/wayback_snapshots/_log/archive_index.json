@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:26:10",
+  "last_updated": "2026-08-26T18:26:51",
   "html": {
     "https://web.archive.org/web/20240618020057if_/https://twitter.com/_YUKI_owo/status/1802884171939123320": {
       "status": "done",
@@ -4364,9 +4364,9 @@
       "referenced_by": [
         "20260425132708_twitter_com__yuki_owo_status_2048031055924666764.json"
       ],
-      "last_updated": "2026-08-26T17:25:57",
+      "last_updated": "2026-08-26T18:26:41",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260425132708/https://video.twimg.com/amplify_video/2048031027646574592/vid/avc1/650x1280/Z6z0A0Yx43ZQT0jp.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2056013882754490368/pu/vid/avc1/1024x576/0yn2cvjl4t-p4xjQ.mp4?tag=12": {
       "status": "done",
@@ -4394,9 +4394,9 @@
       "referenced_by": [
         "20260714034516_twitter_com__yuki_owo_status_2076875653161615512.json"
       ],
-      "last_updated": "2026-08-26T17:25:58",
+      "last_updated": "2026-08-26T18:26:51",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260714034516/https://video.twimg.com/ext_tw_video/2076712463593312256/pu/vid/avc1/720x1280/XsVFv-NdrWXxYE31.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2076725394330542080/vid/avc1/720x1280/B9W8YjPWkH4wmiOc.mp4": {
       "status": "done",
