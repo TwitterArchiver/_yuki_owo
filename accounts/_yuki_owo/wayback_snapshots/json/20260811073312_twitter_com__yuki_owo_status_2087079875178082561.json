@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2086727578191286427",
+    "created_at": "2026-08-11T07:33:12.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087079875178082561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1785306867603759104",
+          "start": 0,
+          "username": "raiden293825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087079875178082561",
+    "in_reply_to_user_id": "1785306867603759104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086835724888981596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raiden293825 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2086727578191286427",
+        "created_at": "2026-08-11T07:33:12.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087079875178082561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1785306867603759104",
+              "start": 0,
+              "username": "raiden293825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087079875178082561",
+        "in_reply_to_user_id": "1785306867603759104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086835724888981596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raiden293825 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785306867603759104",
+        "conversation_id": "2086727578191286427",
+        "created_at": "2026-08-10T15:23:03.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086835724888981596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086835724888981596",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086727578191286427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 闹人几了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n两次从第五高原幸存导致脑子烂掉了的神人一个",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2087079875178082561",
+        "name": "下水道",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 698,
+          "like_count": 3671,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2063
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-30T13:55:13.000Z",
+        "description": "よいゆめをෆ( ˶'ᵕ'˶)ෆ\n有需要可以帮忙的\n我一直爱你\n负面情绪垃圾桶，随时可以向我说话\n，可直接称呼我良梦",
+        "id": "1785306867603759104",
+        "is_identity_verified": false,
+        "location": "迦勒底人理保障局极东分部will",
+        "most_recent_tweet_id": "2086835724888981596",
+        "name": "良い夢",
+        "pinned_tweet_id": "2085348128589504910",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785306867603759104/1737039717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879906213766311936/Z9lVxg79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 75,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "raiden293825",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

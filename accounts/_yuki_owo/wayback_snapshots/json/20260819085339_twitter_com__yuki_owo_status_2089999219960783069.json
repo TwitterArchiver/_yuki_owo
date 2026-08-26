@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2089675410766434805",
+    "created_at": "2026-08-19T08:53:39.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089999219960783069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1801977451674996736",
+          "start": 0,
+          "username": "YMSF0107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089999219960783069",
+    "in_reply_to_user_id": "1801977451674996736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089940770254135500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMSF0107 dxm回家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2089675410766434805",
+        "created_at": "2026-08-19T08:53:39.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089999219960783069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1801977451674996736",
+              "start": 0,
+              "username": "YMSF0107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089999219960783069",
+        "in_reply_to_user_id": "1801977451674996736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089940770254135500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMSF0107 dxm回家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801977451674996736",
+        "conversation_id": "2089675410766434805",
+        "created_at": "2026-08-19T05:01:23.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089940770254135500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089940770254135500",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089675410766434805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo DXM回家😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2089999219960783069",
+        "name": "下水道",
+        "pinned_tweet_id": "2077868369412595997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 729,
+          "like_count": 3836,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2084
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-15T13:58:13.000Z",
+        "description": "我是小杜  1.0惨遭封锁  2.0紧随其后被限制",
+        "id": "1801977451674996736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089940770254135500",
+        "name": "一起去天国吧3.0",
+        "pinned_tweet_id": "2068011211174867283",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801977451674996736/1781887794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068010700530937859/m3-bIyg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 66,
+          "like_count": 2458,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "YMSF0107",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

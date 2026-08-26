@@ -1,0 +1,237 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1021411375992590339",
+    "conversation_id": "1800495066001391989",
+    "created_at": "2024-06-11T11:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T12:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800495066001391989"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Wuthering Waves",
+          "probability": 0.9699,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1514126816038256640",
+          "start": 3,
+          "username": "Wuthering_Waves"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800495066001391989",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9810
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800483436253302789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wuthering_Waves: Wuthering Waves has reached an astounding milestone of 30 million downloads worldwide! Such an incredible achievement…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1021411375992590339",
+        "conversation_id": "1800495066001391989",
+        "created_at": "2024-06-11T11:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T12:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800495066001391989"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Wuthering Waves",
+              "probability": 0.9699,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1514126816038256640",
+              "start": 3,
+              "username": "Wuthering_Waves"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800495066001391989",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9810
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800483436253302789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wuthering_Waves: Wuthering Waves has reached an astounding milestone of 30 million downloads worldwide! Such an incredible achievement…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800483423221673984"
+          ]
+        },
+        "author_id": "1514126816038256640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1800483436253302789",
+        "created_at": "2024-06-11T11:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T12:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800483436253302789"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Wuthering Waves",
+              "probability": 0.9765,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 228,
+              "normalized_text": "Wuthering Waves",
+              "probability": 0.973,
+              "start": 214,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BED4aOTlua",
+              "end": 304,
+              "expanded_url": "https://twitter.com/Wuthering_Waves/status/1800483436253302789/photo/1",
+              "media_key": "3_1800483423221673984",
+              "start": 281,
+              "url": "https://t.co/BED4aOTlua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800483436253302789",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 142199,
+          "like_count": 10382,
+          "quote_count": 389,
+          "reply_count": 648,
+          "retweet_count": 9810
+        },
+        "reply_settings": "everyone",
+        "text": "Wuthering Waves has reached an astounding milestone of 30 million downloads worldwide! Such an incredible achievement is only made possible by the support from all of you.\nWe'll keep in constant efforts to improve Wuthering Waves, and an exciting new adventure is on the horizon!… https://t.co/BED4aOTlua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-07-23T15:07:03.000Z",
+        "description": "這裡是桔子✨\n中文為主✨日、英文學習中\n有時會發一些畫的圖上來✨",
+        "id": "1021411375992590339",
+        "name": "桔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388503593699876865/Zw2h6PAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 216,
+          "like_count": 3576,
+          "listed_count": 1,
+          "tweet_count": 52
+        },
+        "username": "_YUKI_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T06:22:39.000Z",
+        "description": "Wuthering Waves is a story-rich open-world game with a high degree of freedom. It is now out across platforms worldwide!\nDownload NOW through the link below.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wutheringwaves.onelink.me/jkoc/8ut7eh8n",
+                "end": 23,
+                "expanded_url": "https://wutheringwaves.onelink.me/jkoc/8ut7eh8n",
+                "start": 0,
+                "url": "https://t.co/h19GxUNUWE"
+              }
+            ]
+          }
+        },
+        "id": "1514126816038256640",
+        "name": "Wuthering Waves",
+        "pinned_tweet_id": "1798535282838454484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785142408566407168/Q0Zzivi3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797136,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 574,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/h19GxUNUWE",
+        "username": "Wuthering_Waves",
+        "verified": true
+      }
+    ]
+  }
+}

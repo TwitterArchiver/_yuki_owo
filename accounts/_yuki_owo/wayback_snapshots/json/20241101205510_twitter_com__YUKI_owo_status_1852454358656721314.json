@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1021411375992590339",
+    "conversation_id": "1852454358656721314",
+    "created_at": "2024-11-01T20:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T21:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852454358656721314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750066500613058560",
+          "start": 3,
+          "username": "ZZZ_CHT"
+        },
+        {
+          "end": 47,
+          "id": "1750066500613058560",
+          "start": 39,
+          "username": "ZZZ_CHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852454358656721314",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852198970526925051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZZ_CHT: 🎁《絕區零》月城柳角色展示｜待辦事項 99+\n\n跟隨@ZZZ_CHT &amp; 轉發本推文，我們將隨機抽取30名玩家送出毛絨地毯 邦布款 ×1！\n\n● 會議紀錄整理 1/1\n● 部門每月支出報表 1/1\n● 調查員交流會演講稿 4/4\n● 淺羽體檢預約 2/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1021411375992590339",
+        "conversation_id": "1852454358656721314",
+        "created_at": "2024-11-01T20:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T21:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852454358656721314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750066500613058560",
+              "start": 3,
+              "username": "ZZZ_CHT"
+            },
+            {
+              "end": 47,
+              "id": "1750066500613058560",
+              "start": 39,
+              "username": "ZZZ_CHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852454358656721314",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852198970526925051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZZZ_CHT: 🎁《絕區零》月城柳角色展示｜待辦事項 99+\n\n跟隨@ZZZ_CHT &amp; 轉發本推文，我們將隨機抽取30名玩家送出毛絨地毯 邦布款 ×1！\n\n● 會議紀錄整理 1/1\n● 部門每月支出報表 1/1\n● 調查員交流會演講稿 4/4\n● 淺羽體檢預約 2/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1852181546264072195"
+          ]
+        },
+        "author_id": "1750066500613058560",
+        "conversation_id": "1852198970526925051",
+        "created_at": "2024-11-01T04:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T05:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852198970526925051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1750066500613058560",
+              "start": 26,
+              "username": "ZZZ_CHT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDixodAINz",
+              "end": 197,
+              "expanded_url": "https://x.com/ZZZ_CHT/status/1852198970526925051/video/1",
+              "media_key": "7_1852181546264072195",
+              "start": 174,
+              "url": "https://t.co/jDixodAINz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852198970526925051",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5982,
+          "like_count": 212,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "🎁《絕區零》月城柳角色展示｜待辦事項 99+\n\n跟隨@ZZZ_CHT &amp; 轉發本推文，我們將隨機抽取30名玩家送出毛絨地毯 邦布款 ×1！\n\n● 會議紀錄整理 1/1\n● 部門每月支出報表 1/1\n● 調查員交流會演講稿 4/4\n● 淺羽體檢預約 2/2\n● 蒼角今日份零食 1/1\n● 「緊急」零號空洞特別行動計劃書需經雅簽字 1/1… https://t.co/jDixodAINz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-07-23T15:07:03.000Z",
+        "description": "這裡是桔子✨🇹🇼\n中文為主✨日、英文學習中\n有時會發一些畫的圖上來✨",
+        "id": "1021411375992590339",
+        "name": "桔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802883361675128832/IXQLGMjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 231,
+          "like_count": 3938,
+          "listed_count": 1,
+          "tweet_count": 55
+        },
+        "username": "_YUKI_owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T08:02:29.000Z",
+        "description": "PS5·iOS·Android·PC｜HoYoverse都市幻想ARPG《絕區零》1.2版本「火獄騎行」已正式上線：https://t.co/k2lzoJvrva",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 81,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 58,
+                "url": "https://t.co/k2lzoJvrva"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 0,
+                "url": "https://t.co/k2lzoJvrva"
+              }
+            ]
+          }
+        },
+        "id": "1750066500613058560",
+        "name": "絕區零",
+        "pinned_tweet_id": "1849662467028418907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768538671836540928/e2IIhoKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26773,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 24,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/k2lzoJvrva",
+        "username": "ZZZ_CHT",
+        "verified": true
+      }
+    ]
+  }
+}

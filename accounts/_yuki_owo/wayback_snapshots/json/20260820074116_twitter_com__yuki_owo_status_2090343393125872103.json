@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2090343393125872103",
+    "created_at": "2026-08-20T07:41:16.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090343393125872103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1987805389904396288",
+          "start": 3,
+          "username": "HaruYukii0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090343393125872103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090128546547322979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaruYukii0421: 大家不要想着和推特上的人理论了 想想能翻墙的有几个好人 要么是见证的要么是看片的要么是我这种精神病 放过彼此好吗 吵架除了把自己气死没有任何用处"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2090343393125872103",
+        "created_at": "2026-08-20T07:41:16.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090343393125872103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1987805389904396288",
+              "start": 3,
+              "username": "HaruYukii0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090343393125872103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090128546547322979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaruYukii0421: 大家不要想着和推特上的人理论了 想想能翻墙的有几个好人 要么是见证的要么是看片的要么是我这种精神病 放过彼此好吗 吵架除了把自己气死没有任何用处"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987805389904396288",
+        "conversation_id": "2090128546547322979",
+        "created_at": "2026-08-19T17:27:32.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090128546547322979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090128546547322979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 20848,
+          "like_count": 546,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "大家不要想着和推特上的人理论了 想想能翻墙的有几个好人 要么是见证的要么是看片的要么是我这种精神病 放过彼此好吗 吵架除了把自己气死没有任何用处"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2090343393125872103",
+        "name": "下水道",
+        "pinned_tweet_id": "2077868369412595997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 744,
+          "like_count": 3840,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2092
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T08:52:10.000Z",
+        "description": "🔪💊❤️\n同类互fo喵\n提问箱：https://t.co/cnThTXnKUl\n最最爱的小狗@zhangyuKawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "zhangyuKawaii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BF%9F%E7%B…",
+                "end": 39,
+                "expanded_url": "https://ngl.link/%E8%BF%9F%E7%BE%8A",
+                "start": 16,
+                "url": "https://t.co/cnThTXnKUl"
+              }
+            ]
+          }
+        },
+        "id": "1987805389904396288",
+        "is_identity_verified": false,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2090334808845296034",
+        "name": "迟羊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987805389904396288/1785696784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 442,
+          "like_count": 7268,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "HaruYukii0421",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
