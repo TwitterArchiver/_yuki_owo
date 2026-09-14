@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2092347419015200927",
+    "created_at": "2026-08-26T11:47:46.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092579756856562069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014668633679818752",
+          "start": 0,
+          "username": "ArayaTouko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092579756856562069",
+    "in_reply_to_user_id": "2014668633679818752",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092500815764451606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArayaTouko okok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2092347419015200927",
+        "created_at": "2026-08-26T11:47:46.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092579756856562069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014668633679818752",
+              "start": 0,
+              "username": "ArayaTouko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092579756856562069",
+        "in_reply_to_user_id": "2014668633679818752",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092500815764451606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArayaTouko okok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014668633679818752",
+        "conversation_id": "2092347419015200927",
+        "created_at": "2026-08-26T06:34:05.000Z",
+        "display_text_range": [
+          11,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092500815764451606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092500815764451606",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092347419015200927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 还是，慎重一点吧，有时候自己的感觉会把自己完全骗住。如果朋友都做不成会伤心死的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2092579756856562069",
+        "name": "下水道",
+        "pinned_tweet_id": "2090385958864859579",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092177123457040384/c-tznVV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 755,
+          "like_count": 3878,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2135
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T11:57:09.000Z",
+        "description": "没事的时候会看看X，随意",
+        "id": "2014668633679818752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092502094167330959",
+        "name": "xyx",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014668633679818752/1782462224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071516855165210624/oiq7ZE1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 33,
+          "like_count": 6970,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "ArayaTouko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

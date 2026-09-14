@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092823484368080896"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2092823500713332894",
+    "created_at": "2026-08-27T03:56:20.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T04:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092823500713332894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hy8moLqqGg",
+          "end": 30,
+          "expanded_url": "https://x.com/_yuki_owo/status/2092823500713332894/photo/1",
+          "media_key": "3_2092823484368080896",
+          "start": 7,
+          "url": "https://t.co/Hy8moLqqGg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092823500713332894",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092823484368080896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给你们看日出 https://t.co/Hy8moLqqGg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092823484368080896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsz3uta0AAsh6l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092823484368080896"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2092823500713332894",
+        "created_at": "2026-08-27T03:56:20.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092823500713332894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hy8moLqqGg",
+              "end": 30,
+              "expanded_url": "https://x.com/_yuki_owo/status/2092823500713332894/photo/1",
+              "media_key": "3_2092823484368080896",
+              "start": 7,
+              "url": "https://t.co/Hy8moLqqGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092823500713332894",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092823484368080896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们看日出 https://t.co/Hy8moLqqGg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2092823500713332894",
+        "name": "下水道",
+        "pinned_tweet_id": "2090385958864859579",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092177123457040384/c-tznVV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 761,
+          "like_count": 3878,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2140
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
