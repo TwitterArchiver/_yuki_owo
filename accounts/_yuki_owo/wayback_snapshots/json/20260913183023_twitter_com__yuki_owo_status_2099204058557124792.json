@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2098550114453475584",
+    "created_at": "2026-09-13T18:30:23.000Z",
+    "display_text_range": [
+      7,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T19:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099204058557124792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1996073090527219712",
+          "start": 0,
+          "username": "X4eok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099204058557124792",
+    "in_reply_to_user_id": "1996073090527219712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098586169021997328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X4eok 😋❤️‍🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2098550114453475584",
+        "created_at": "2026-09-13T18:30:23.000Z",
+        "display_text_range": [
+          7,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099204058557124792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1996073090527219712",
+              "start": 0,
+              "username": "X4eok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099204058557124792",
+        "in_reply_to_user_id": "1996073090527219712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098586169021997328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X4eok 😋❤️‍🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996073090527219712",
+        "conversation_id": "2098550114453475584",
+        "created_at": "2026-09-12T01:35:07.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098586169021997328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098586169021997328",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098550114453475584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 萌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2099204058557124792",
+        "name": "下水道",
+        "pinned_tweet_id": "2093631093195063741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092177123457040384/c-tznVV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 754,
+          "like_count": 3857,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2172
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-03T04:25:36.000Z",
+        "description": "06/青年/S \n卡泡 互关私我 也可以和我聊天呀 我每天好无聊的\n看到都会回呀\n我没有🚪呀宝宝们",
+        "id": "1996073090527219712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099095733312106891",
+        "name": "X",
+        "pinned_tweet_id": "2097252705425088628",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996073376914268160/3N-nk8vX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 947,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "X4eok",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

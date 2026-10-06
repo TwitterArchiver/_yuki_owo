@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101748913845972992"
+      ]
+    },
+    "author_id": "1957509667787325440",
+    "conversation_id": "2101748922012332258",
+    "created_at": "2026-09-20T19:02:46.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T20:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101748922012332258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vrj1P4Tn0h",
+          "end": 145,
+          "expanded_url": "https://x.com/_yuki_owo/status/2101748922012332258/photo/1",
+          "media_key": "3_2101748913845972992",
+          "start": 122,
+          "url": "https://t.co/Vrj1P4Tn0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101748922012332258",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101748913845972992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样社会适应性为0。在夜店玩了一会带台的老忽略我。被忽略的难受了去厕所长凳上坐了一会回来发现台上除了我都是一对一对。还都在玩双人互动。吓得我躲回厕所长凳了。结果长凳上还有俩抱在一块的。又舍不得走。就在阴暗的消耗时间。我这种人果然该去死才对 https://t.co/Vrj1P4Tn0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101748913845972992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrpgGjaMAAUTIX.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101748913845972992"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2101748922012332258",
+        "created_at": "2026-09-20T19:02:46.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T20:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101748922012332258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vrj1P4Tn0h",
+              "end": 145,
+              "expanded_url": "https://x.com/_yuki_owo/status/2101748922012332258/photo/1",
+              "media_key": "3_2101748913845972992",
+              "start": 122,
+              "url": "https://t.co/Vrj1P4Tn0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101748922012332258",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101748913845972992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样社会适应性为0。在夜店玩了一会带台的老忽略我。被忽略的难受了去厕所长凳上坐了一会回来发现台上除了我都是一对一对。还都在玩双人互动。吓得我躲回厕所长凳了。结果长凳上还有俩抱在一块的。又舍不得走。就在阴暗的消耗时间。我这种人果然该去死才对 https://t.co/Vrj1P4Tn0h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2101748922012332258",
+        "name": "下水道",
+        "pinned_tweet_id": "2093631093195063741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100201475121324033/9qpfqNKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 754,
+          "like_count": 3850,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 2188
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2102498650354278550",
+    "created_at": "2026-09-22T20:41:55.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T21:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102498650354278550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016175327069011971",
+          "start": 3,
+          "username": "shanhu_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102498650354278550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101951676215365871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shanhu_mi: 想象一下全世界的人都开始嗑药没有战争也没有争吵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2102498650354278550",
+        "created_at": "2026-09-22T20:41:55.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T21:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102498650354278550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016175327069011971",
+              "start": 3,
+              "username": "shanhu_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102498650354278550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101951676215365871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shanhu_mi: 想象一下全世界的人都开始嗑药没有战争也没有争吵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016175327069011971",
+        "conversation_id": "2101951676215365871",
+        "created_at": "2026-09-21T08:28:26.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101951676215365871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101951676215365871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5139,
+          "like_count": 188,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下全世界的人都开始嗑药没有战争也没有争吵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2102498650354278550",
+        "name": "下水道",
+        "pinned_tweet_id": "2093631093195063741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100201475121324033/9qpfqNKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 752,
+          "like_count": 3848,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2196
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "叫我板栗就好！\n年龄你猜。\n哦滴。zc。抽烟 \n我比较喜欢自言自语 \n欢迎同类互fo呀 私信说一下就好 ！\n🚪52好友位和圈圈\n🚪88 被动聊天\n备用小号@BanLi_mi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "BanLi_mi"
+              }
+            ]
+          }
+        },
+        "id": "2016175327069011971",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102470620399485345",
+        "name": "T^",
+        "pinned_tweet_id": "2088638181327712668",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016175327069011971/1788343599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095091022959394817/kup8bJ7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 208,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1531
+        },
+        "url": "",
+        "username": "shanhu_mi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

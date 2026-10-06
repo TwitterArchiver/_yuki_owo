@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1957509667787325440",
+    "conversation_id": "2105978204037292094",
+    "created_at": "2026-10-02T11:08:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T12:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105978204037292094"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2105978204037292094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我明白了什么是爱，我爱你，我也许每天都想每时每刻看到你，你爱谁都可以，怎么做都可以，曾经我一直想控制你让你只爱我，但那样的你也不再是你，不过是被我的欲望填满的空壳，不再会是我爱的你。我爱你，透过人群，顺着墙缝，从你的床底下，窗外…亲爱的，我的爱意和杀意在你看不到的阴暗角落里滋长。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2105978204037292094",
+        "created_at": "2026-10-02T11:08:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105978204037292094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105978204037292094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明白了什么是爱，我爱你，我也许每天都想每时每刻看到你，你爱谁都可以，怎么做都可以，曾经我一直想控制你让你只爱我，但那样的你也不再是你，不过是被我的欲望填满的空壳，不再会是我爱的你。我爱你，透过人群，顺着墙缝，从你的床底下，窗外…亲爱的，我的爱意和杀意在你看不到的阴暗角落里滋长。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n不收门槛/不线下/不卖/随缘交友\n八号后恢复南京fomoxyz每日挂壁",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2105978204037292094",
+        "name": "下水道",
+        "pinned_tweet_id": "2093631093195063741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1790823513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104216495492681728/EGXf1JbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 745,
+          "like_count": 3847,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2219
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
